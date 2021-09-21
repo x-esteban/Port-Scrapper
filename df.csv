@@ -66,7 +66,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Akorda por Ibarrangelu,Bizkaia,214 m ,128 m ,"2,4 Km ","5,9 % ",20  , 43.391433 , -2.639481 , 43.395413 , -2.654003 
 " Alájar, Puerto de por por Sur",Huelva,842 m ,265 m ,"3,7 Km ","7,1 % ",56  , 37.87527 , -6.660812 , 37.886313 , -6.661234 
 " Alájar, Puerto de por por Linares de la Sierra",Huelva,837 m ,331 m ,"7,14 Km ","4,6 % ",82  , 37.880012 , -6.621194 , 37.886313 , -6.661234 
-" Alamillos, Los por Grazalema (Río Guadalete)",Cádiz,828 m ,86 m ,"1,79 Km ","4,78 % ",12  ,  ,  ,  ,  
 " Albaida, Pto. de por Albaida",Valencia,606 m ,326 m ,"8,4 Km ","3,88 % ",43  , 38.844755 , -0.519061 , 38.807343 , -0.462542 
 " Albaida, Pto. de por Muro de Alcoy-antigua N340",Alicante,606 m ,263 m ,"7,6 Km ","3,46 % ",41  , 38.782123 , -0.41276 , 38.807343 , -0.462542 
  Albánchez por Río Cuadros,Jaén,1161 m ,680 m ,"12,3 Km ","5,5 % ",130  , 37.826779 , -3.435724 , 37.786294 , -3.483188 
@@ -114,20 +113,16 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Almedíjar (Pto. Espadán) por Tales,Castellón,793 m ,553 m ,"15,2 Km ","3,64 % ",103  , 39.946562 , -0.310192 , 39.890213 , -0.359201 
  Almedíjar (Pto. Espadán) por Almedíjar,Castellón,793 m ,453 m ,9 Km ,5 % ,84  , 39.864722 , -0.425463 , 39.890262 , -0.359502 
 " Almenara, La por Navas del Rey",Madrid,957 m ,245 m ,"5,26 Km ","4,66 % ",33  , 40.408268 , -4.257975 , 40.45116 , -4.262524 
-" Almenara, La por Peñaflor (Sur)",Sevilla,302 m ,213 m ,"5,64 Km ","3,8 % ",31  ,  ,  ,  ,  
 " Almenara, La por Colmenar del Arroyo",Madrid,957 m ,292 m ,11 Km ,"2,56 % ",44  , 40.423233 , -4.201155 , 40.451911 , -4.262438 
 " Almenara, La por Robledo de Chavela",Madrid,957 m ,122 m ,"3,1 Km ","4,26 % ",20  , 40.464515 , -4.260807 , 40.45067 , -4.262781 
  Almudaina por Barranco de Esmenes,Alicante,570 m ,198 m ,"2,7 Km ","7,33 % ",42  , 38.774596 , -0.362206 , 38.759839 , -0.355682 
  Almudaina por Benialfaquí,Alicante,570 m ,145 m ,"3,3 Km ","4,39 % ",27  , 38.776101 , -0.338473 , 38.759839 , -0.355682 
  Almudaina por Barranco de Planes,Alicante,570 m ,195 m ,"2,7 Km ","7,22 % ",41  , 38.776503 , -0.354481 , 38.759806 , -0.355725 
- Alobras por Tormón,Teruel,1170 m ,120 m ,"2,7 Km ","4,44 % ",23  ,  ,  ,  ,  
- Alobras por Alobras,Teruel,1447 m ,330 m ,"5,1 Km ","6,47 % ",69  ,  ,  ,  ,  
  Alpuente por Titaguas,Valencia,975 m ,135 m ,2 Km ,"6,8 % ",26  , 39.874274 , -1.029668 , 39.875822 , -1.014218 
  Alqueries de Serra por Náquera,Valencia,380 m ,140 m ,"2,7 Km ","5,2 % ",46  , 39.6664 , -0.426621 , 39.68209 , -0.434647 
  Alt del Pi por Estivella-El Pla,Valencia,716 m ,568 m ,"13,4 Km ","4,24 % ",134  , 39.722834 , -0.366454 , 39.691172 , -0.399971 
  Alt del Pi por Torres Torres,Valencia,716 m ,498 m ,"10,6 Km ","4,68 % ",120  , 39.731152 , -0.397997 , 39.691172 , -0.399971 
  Alt del Pi por Náquera,Valencia,716 m ,543 m ,"13,2 Km ","4,11 % ",127  , 39.644726 , -0.430055 , 39.691172 , -0.399971 
-" Altillo, El por Córdona (Sur)",Córdoba,556 m ,414 m ,"8,85 Km ","4,7 % ",58  ,  ,  ,  ,  
  Alto Aguilar de Codés por Viana,Navarra,831 m ,393 m ,"12,6 Km ","3,12 % ",54  , 42.512855 , -2.37515 , 42.601825 , -2.372553 
  Alto Campoo-Fuente del Chivo por Reinosa,Cantabria,1982 m ,1052 m ,"21,25 Km ","4,95 % ",191  , 43.020891 , -4.224823 , 43.043372 , -4.400153 
  Alto de Buenache por Buenache,Cuenca,1329 m ,82 m ,"1,26 Km ","6,51 % ",16  , 40.13232 , -1.99444 , 40.13295 , -2.00528 
@@ -152,21 +147,17 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Ancares por Pan do Zarco,Lugo,1670 m ,1110 m ,12 Km ,"9,25 % ",366  , 42.940883 , -6.87732 , 42.868079 , -6.820714 
  Ancares por Balouta,Lugo,1670 m ,1110 m ,20 Km ,"5,55 % ",313  , 42.940883 , -6.87732 , 42.868079 , -6.820714 
  Ancares por Piornedo,Lugo,1670 m ,1095 m ,"23,6 Km ","4,64 % ",293  , 42.894746 , -6.944525 , 42.868079 , -6.820714 
- Ancillo por Bº Helguero (Ramales),Cantabria,440 m ,342 m ,"3,34 Km ","1,26 % ",10  ,  ,  ,  ,  
  Andarraso por Inicio,León,1414 m ,399 m ,"4,1 Km ","9,7 % ",146  , 42.756498 , -5.960919 , 42.747312 , -6.007290 
  Andazarrate por Orio,Gipuzkoa,437 m ,432 m ,"16,89 Km ","2,55 % ",66  , 43.274747 , -2.131597 , 43.202571 , -2.134969 
- Andén Verde por Playa de la Aldea,Las Palmas,555 m ,540 m ,"8,8 Km ","6,14 % ",103  ,  ,  ,  ,  
  Andikona por Berriz y Besoita,Bizkaia,341 m ,67 m ,"1,39 Km ","4,78 % ",9  , 43.187636 , -2.57233 , 43.19159 , -2.584072 
  Andikona por N-634,Bizkaia,341 m ,221 m ,4 Km ,"5,53 % ",46  , 43.166226 , -2.603642 , 43.190222 , -2.586465 
  Andraka por Plentzia,Bizkaia,141 m ,130 m ,"3,3 Km ","3,93 % ",17  , 43.399591 , -2.943714 , 43.397818 , -2.908276 
  Andraka por Asteintza (Jatabe/Maruri),Bizkaia,141 m ,118 m ,"3,5 Km ","3,37 % ",15  , 43.383585 , -2.877324 , 43.397818 , -2.908276 
 " Angeles, Cerro de los por Venta Gaeta",Valencia,907 m ,247 m ,"2,4 Km ","10,29 % ",91  , 39.308103 , -0.959072 , 39.309398 , -0.944996 
-" Angels, Els por Madremanya",Gerona,485 m ,310 m ,6 Km ,"5,6 % ",66  ,  ,  ,  ,  
-" Angels, Els por Girona",Gerona,485 m ,415 m ,11 Km ,"3,5 % ",59  ,  ,  ,  ,  
+" Angels, Els por Madremanya",Gerona,485 m ,310 m ,6 Km ,"5,6 % ",66  ,41.988762,2.954046,41.984464,2.909225
+" Angels, Els por Girona",Gerona,485 m ,415 m ,11 Km ,"3,5 % ",59  ,41.9635672,2.844255,41.984464,2.909225
  Angliru por Santa Eulalia,Asturias,1570 m ,1403 m ,"17,7 Km ","7,93 % ",516  , 43.279861 , -5.881162 , 43.221596 , -5.941780 
  Angliru por La Vega (Riosa),Asturias,1570 m ,1265 m ,"12,6 Km ","10,04 % ",515  , 43.230633 , -5.882792 , 43.221596 , -5.941780 
-" Angon, Collado de por Ceneya",Asturias,815 m ,600 m ,"7,2 Km ","8,33 % ",179  , 43.235761 , -5.091605 ,  ,  
-" Angosturas, Las por Arroyo del Colmenar",Málaga,439 m ,265 m ,"5,49 Km ","4,8 % ",60  ,  ,  ,  ,  
 " Ansó, Puerto de por Hecho",Huesca,1078 m ,266 m ,"4,6 Km ","5,76 % ",46  , 42.735801 , -0.751798 , 42.740403 , -0.7845 
  Ansovell por Arsèguel,Lleida,1335 m ,546 m ,"9,9 Km ","5,5 % ",110  , 42.362003 , 1.588044 , 42.325653 , 1.583761 
  Antenas de Cabeza del Hoyo por San Martín de Boniches,Cuenca,1398 m ,220 m ,"3,12 Km ","7,05 % ",47  , 39.89070 , -1.56784 , 39.90305 , -1.57879 
@@ -186,7 +177,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Arano por Hernani,Navarra,486 m ,370 m ,"5,4 Km ","6,8 % ",75  , 43.212911 , -1.904633 , 43.19969 , -1.895124 
  Arano (Cruce) por Goizueta-Benta Aranbide,Navarra,247 m ,106 m ,"1,8 Km ",6 % ,17  , 43.211559 , -1.881604 , 43.207593 , -1.885556 
  Arantzazu por Oñati,Gipuzkoa,718 m ,464 m ,"7,8 Km ","5,95 % ",96  , 43.028945 , -2.412663 , 42.979146 , -2.399915 
-" Araña, Puerto de la por Río Guadalporcún",Sevilla,472 m ,236 m ,"6,06 Km ","3,9 % ",34  ,  ,  ,  ,  
  Araotz por Oñati,Gipuzkoa,525 m ,267 m ,8 Km ,"3,33 % ",99  , 43.028945 , -2.412663 , 42.991700 , -2.456106 
  Araotz-Urruti por Araotz,Gipuzkoa,490 m ,85 m ,"1,04 Km ","8,01 % ",18  , 42.993109 , -2.451319 , 42.997989 , -2.452065 
 " Aras, Alto de por Aras de los Olmos",Valencia,1033 m ,141 m ,"5,3 Km ","2,66 % ",20  , 39.911218 , -1.107688 , 39.932347 , -1.157126 
@@ -195,11 +185,10 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Arboleda, La por Trapagaran",Bizkaia,462 m ,432 m ,"8,3 Km ","5,2 % ",87  , 43.305096 , -3.037291 , 43.280252 , -3.057579 
 " Arboleda, La-La Lejana por Putxeta-Las Calizas",Bizkaia,466 m ,460 m ,"10,1 Km ","4,56 % ",124  , 43.322555 , -3.123057 , 43.280252 , -3.057579 
  Arburu por Zugastieta,Bizkaia,363 m ,243 m ,"3,1 Km ","7,84 % ",59  , 43.249235 , -2.699203 , 43.261425 , -2.718129 
- Arcavell por La Farga de Moles,Lleida,1150 m ,325 m ,"4,5 Km ","7,2 % ",72  ,  ,  ,  ,  
+ Arcavell por La Farga de Moles,Lleida,1150 m ,325 m ,"4,5 Km ","7,2 % ",72  ,42.426366,1.462662,42.429288,1.481890
  Arceo por Paradores,Burgos,462 m ,95 m ,3 Km ,3 % ,15  , 43.096518 , -3.339393 , 43.105511 , -3.363984 
  Ardanué (Pueblo) por N-260 (Noales),Huesca,1360 m ,362 m ,"6,7 Km ","5,4 % ",76  , 42.458252 , 0.660289 , 42.483374 , 0.627844 
  Ardibide por Isaba,Navarra,1457 m ,684 m ,"4,8 Km ","14,25 % ",369  , 42.858664 , -0.922294 , 42.846143 , -0.916886 
- Arduix por La Farga de Moles,Lleida,1370 m ,546 m ,"6,3 Km ","8,7 % ",146  ,  ,  ,  ,  
  Área Recreativa Monte Cayón por Arroyo Doble,Asturias,514 m ,302 m ,"5,5 Km ","5,4 % ",68  , 43.371318 , -5.375319 , 43.361670 , -5.358458 
  Área Recreativa Monte Cayón por Infiesto,Asturias,514 m ,334 m ,5 Km ,"6,6 % ",107  , 43.351248 , -5.366081 , 43.361670 , -5.358458 
  Areitio por Ermua,Bizkaia,313 m ,143 m ,"2,6 Km ","5,5 % ",27  , 43.186326 , -2.504797 , 43.182242 , -2.533314 
@@ -213,8 +202,7 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Ares del Maestre (pueblo) por Albocàsser,Castellón,1198 m ,513 m ,"12,6 Km ","4,07 % ",78  , 40.385553 , -0.096045 , 40.456124 , -0.131578 
 " Ares, Coll d' por CV-12",Castellón,1139 m ,154 m ,"5,9 Km ","2,61 % ",22  , 40.479598 , -0.141063 , 40.454262 , -0.141921 
 " Ares, Coll d' por Camprodon",Gerona,1512 m ,550 m ,"15,3 Km ","3,59 % ",81  , 42.323369 , 2.383363 , 42.36705 , 2.45641 
-" Ares, Coll d' por Áger",Lleida,1534 m ,935 m ,"14,1 Km ","6,63 % ",195  ,  ,  ,  ,  
-" Ares, Coll d' por Alsamora",Lleida,1534 m ,1074 m ,"16,9 Km ","6,35 % ",204  ,  ,  ,  ,  
+" Ares, Coll d' por Áger",Lleida,1534 m ,935 m ,"14,1 Km ","6,63 % ",195  ,42.002255,0.759109,42.048101,0.742686
 " Ares, Coll d' por Albocàsser",Castellón,1139 m ,454 m ,"11,5 Km ","3,95 % ",70  , 40.385553 , -0.096045 , 40.45436 , -0.142779 
  Aretxabalgane por Olabarri-Gerekiz,Bizkaia,330 m ,240 m ,"6,9 Km ","3,48 % ",42  , 43.327902 , -2.755766 , 43.283423 , -2.757547 
  Aretxabalgane por Larrabetzu-Goikolexea,Bizkaia,330 m ,240 m ,"4,2 Km ","5,7 % ",41  , 43.267573 , -2.784015 , 43.283423 , -2.757547 
@@ -261,9 +249,7 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Arroyo Cerezo por Alobras,Valencia,1347 m ,240 m ,"10,6 Km ","2,25 % ",34  , 40.180972 , -1.388311 , 40.119434 , -1.409168 
  Arroyo de Salas por Salas de los Infantes,Burgos,1146 m ,189 m ,"7,94 Km ","2,38 % ",31  , 42.023921 , -3.290856 , 42.084847 , -3.264828 
  Arrugaeta por Jauregi (Orozko),Bizkaia,440 m ,247 m ,"2,8 Km ","8,82 % ",79  , 43.100881 , -2.887913 , 43.11386 , -2.881701 
- Ars por La Farga de Moles,Lleida,1405 m ,589 m ,"8,9 Km ","6,6 % ",125  ,  ,  ,  ,  
  Arta por Iruzubieta,Bizkaia,342 m ,219 m ,"3,1 Km ","7,06 % ",62  , 43.252892 , -2.527435 , 43.242983 , -2.536576 
- Artafi por Río Guadiato,Córdoba,524 m ,336 m ,"6,06 Km ","5,5 % ",54  ,  ,  ,  ,  
  Artaun por Dima,Bizkaia,348 m ,225 m ,4 Km ,"5,63 % ",44  , 43.142354 , -2.74832 , 43.153994 , -2.733686 
  Artaza por Subijana,Álava,750 m ,215 m ,"5,2 Km ","4,1 % ",31  , 42.824368 , -2.898493 , 42.845817 , -2.964746 
  Artaza por Atiega,Álava,750 m ,175 m ,6 Km ,"2,9 % ",26  , 42.822234 , -3.014681 , 42.845817 , -2.964746 
@@ -274,7 +260,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Artetagana por Usánsolo (Galdakao),Bizkaia,252 m ,197 m ,"2,1 Km ","9,38 % ",61  , 43.217413 , -2.819731 , 43.212761  , -2.842262  
 " Artiba, Embalse de por Alonsotegi",Bizkaia,330 m ,305 m ,4 Km ,"7,63 % ",109  , 43.245164 , -2.988684 , 43.22151 , -2.972242 
  Artieta por El Refugio (Artziniega),Burgos,475 m ,250 m ,"5,5 Km ","4,54 % ",35  , 43.111808 , -3.155705 , 43.115614 , -3.188159 
- Artiga de Lin por Es Bórdes,Lleida,1464 m ,652 m ,"9,1 Km ","7,2 % ",152  ,  ,  ,  ,  
  Artxanda por Sondika/San Roke,Bizkaia,241 m ,235 m ,"3,4 Km ","6,91 % ",71  , 43.293638 , -2.925035 , 43.274628 , -2.920309 
  Artxanda por Bilbao(Vía Vieja de Lezama),Bizkaia,248 m ,240 m ,"2,95 Km ","8,14 % ",61  , 43.26187 , -2.915668 , 43.273655 , -2.921344 
  Artxanda por Deusto-Enekuri,Bizkaia,251 m ,236 m ,7 Km ,"3,37 % ",31  , 43.274495 , -2.953584 , 43.273655 , -2.921344 
@@ -282,7 +267,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Artxanda (Berriz) por Sangroniz,Bizkaia,211 m ,179 m ,"1,8 Km ","9,94 % ",58  , 43.291935 , -2.93718 , 43.279916 , -2.943703 
  Asentzio (Intxorta) por Bergara,Gipuzkoa,547 m ,404 m ,"7,9 Km ","5,11 % ",81  , 43.109085 , -2.417879 , 43.125888 , -2.484581 
  Askazubi por Zubillaga,Gipuzkoa,612 m ,416 m ,"2,82 Km ","14,75 % ",228  , 43.061469 , -2.440467 , 43.070581 , -2.421885 
-" Asomada, La (Lanzarote) por Mácher",Las Palmas,367 m ,287 m ,"5,4 Km ","5,4 % ",54  ,  ,  ,  ,  
 " Asón, Collado de - Sía, La por Arredondo",Cantabria,1250 m ,1089 m ,"20,6 Km ","5,29 % ",218  , 43.273398 , -3.598344 , 43.152527 , -3.573414 
  Asterrika por carr. Ondarroa-Lekeitio,Bizkaia,241 m ,158 m ,"2,4 Km ","6,58 % ",34  , 43.333716 , -2.452376 , 43.326614 , -2.458073 
  Asterrika por Berriatua,Bizkaia,241 m ,221 m ,"2,3 Km ","9,61 % ",73  , 43.313071 , -2.458266 , 43.326614 , -2.458073 
@@ -296,7 +280,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Atalaya del Molar (Monteoliva) por San Agustín de Guadalix,Madrid,868 m ,231 m ,4 Km ,"5,77 % ",37  , 40.691784 , -3.608515 , 40.720022 , -3.601896 
 " Atalayas, Las por Peñíscola",Castellón,200 m ,190 m ,"2,2 Km ","8,64 % ",53  , 40.36767 , 0.393491 , 40.362373 , 0.376797 
  Atxarte por Abadiño,Bizkaia,367 m ,225 m ,"4,9 Km ","4,59 % ",41  , 43.146683 , -2.607708 , 43.129256 , -2.633843 
- Atxondo por Zeanuri,Bizkaia,408 m ,269 m ,"3,9 Km ","6,9 % ",89  ,  ,  ,  ,  
  Atzeneta por Les Useres,Castellón,491 m ,161 m ,"3,9 Km ","4,13 % ",23  , 40.168052 , -0.158572 , 40.193758 , -0.172477 
  Augasantas - O Codeso por Portobravo (Lousame),La Coruña,450 m ,420 m ,17 Km ,"2,47 % ",65  , 42.785487 , -8.867712 , 42.812441 , -8.755445 
  Augasantas - O Codeso por Rois,La Coruña,450 m ,438 m ,"13,5 Km ","3,24 % ",68  , 42.738837 , -8.662219 , 42.812441 , -8.755445 
@@ -308,11 +291,8 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Avedillo de Sanabria (Oeste) por Cobreros,Zamora,1072 m ,80 m ,"1,67 Km ","4,79 % ",13  , 42.072052 , -6.702681 , 42.071804 , -6.72012 
  Avellaneda por Otxaran,Bizkaia,261 m ,94 m ,"1,7 Km ","5,53 % ",15  , 43.222355 , -3.17344 , 43.228804 , -3.160994 
  Avellaneda por El Carral (Sopuerta),Bizkaia,261 m ,149 m ,"2,4 Km ","6,21 % ",28  , 43.248891 , -3.155233 , 43.228804 , -3.160994 
- Axpe por este,Bizkaia,248 m ,53 m ,"1,5 Km ","3,52 % ",8  ,  ,  ,  ,  
- Axpe (Mendi-Goiko) por oeste,Bizkaia,310 m ,138 m ,"1,79 Km ","7,67 % ",32  ,  ,  ,  ,  
  Axpegorta por Jauregi (Orozko),Bizkaia,355 m ,166 m ,"3,1 Km ","5,35 % ",49  , 43.100881  , -2.887913 , 43.115426 , -2.862968 
- Axpeondo (caserío) por Zeanuri y Gortazar,Bizkaia,361 m ,190 m ,"5,4 Km ","3,51 % ",47  ,  ,  ,  ,  
- Ayagaures por Maspalomas,Las Palmas,490 m ,420 m ,"12,5 Km ","3,36 % ",73  ,  ,  ,  ,  
+ Ayagaures por Maspalomas,Las Palmas,490 m ,420 m ,"12,5 Km ","3,36 % ",73  ,27.779764,-15.606751,27.849814,-15.607347
 " Ayódar, Collado de por Tales",Castellón,520 m ,230 m ,4 Km ,"5,8 % ",39  , 39.946562 , -0.310493 , 39.97689 , -0.346155 
 " Ayódar, Collado de por Ayódar",Castellón,520 m ,162 m ,4 Km ,"4,1 % ",22  , 39.998032 , -0.371046 , 39.97689 , -0.346155 
 " Ayódar, Collado de por Artesa",Castellón,520 m ,310 m ,"6,5 Km ","4,8 % ",53  , 39.958109 , -0.293112 , 39.97689 , -0.346155 
@@ -334,7 +314,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Bachicabo por A-2122,Álava,160 m ,640 m ,"2,6 Km ","6,2 % ",29  , 42.766732 , -3.07524 , 42.789475 , -3.071153 
  Bada por Ozanes(puente),Asturias,270 m ,232 m ,3 Km ,"7,73 % ",54  , 43.366686 , -5.182114 , 43.353456 , -5.165205 
  Bada por Cangas de Onis,Asturias,270 m ,203 m ,4 Km ,"5,07 % ",34  , 43.350523 , -5.132847 , 43.353456 , -5.165205 
-" Badó, Plá de por Caldes de Montbui",Barcelona,642 m ,452 m ,11 Km ,"4,1 % ",67  ,  ,  ,  ,  
  Bagordi-Arrateketa por Elizondo,Navarra,685 m ,485 m ,"6,1 Km ","7,95 % ",142  , 43.148728 , -1.513202 , 43.178648 , -1.545578 
  Bagües por Undues Pintano,Zaragoza,957 m ,307 m ,9 Km ,"3,41 % ",56  , 42.537436 , -1.044072 , 42.546504 ,  -0.966797 
  Bagües por Bagúes,Zaragoza,957 m ,170 m ,"3,5 Km ","4,86 % ",30  , 42.545998 , -0.940704 , 42.546504 , -0.966797 
@@ -352,12 +331,9 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Balones por Quatretondeta-Casa del Collado,Alicante,771 m ,221 m ,"2,9 Km ","7,62 % ",50  , 38.729581 , -0.321436 , 38.741164 , -0.327487 
  Balsa de Ves por Casas del Río,Albacete,755 m ,400 m ,8 Km ,5 % ,103  , 39.297808 , -1.138458 , 39.264789 , -1.195321 
 " Balsilla, La por Bolbaite",Valencia,360 m ,100 m ,"1,6 Km ","6,25 % ",17  , 39.065748 , -0.679264 , 39.052918 , -0.696259 
-" Balsillas, Las por Cherín",Almería,795 m ,262 m ,"6,5 Km ","4,03 % ",42  ,  ,  ,  ,  
  Baltzola por Dima,Bizkaia,444 m ,322 m ,"4,09 Km ","7,84 % ",78  , 43.142354 , -2.74832 , 43.125403 , -2.718065 
 " Bancalejo, Collado de por Jérica-El Sabinar",Castellón,705 m ,196 m ,"5,6 Km ","3,5 % ",26  , 39.928431 , -0.533266 , 39.967023 , -0.537171 
 " Bancalejo, Collado de por Jérica",Castellón,705 m ,220 m ,"9,7 Km ","2,3 % ",36  , 39.914246 , -0.571418 , 39.967023 , -0.537171 
-" Banderas, Las por Calomarde",Teruel,1573 m ,248 m ,4 Km ,"6,19 % ",44  ,  ,  ,  ,  
-" Banderas, Las por Frías de Albarracín",Teruel,1573 m ,133 m ,3 Km ,"4,42 % ",18  ,  ,  ,  ,  
 " Bandereta, Coll de la por Vall d'Alba",Castellón,785 m ,469 m ,"14,8 Km ","3,17 % ",82  , 40.169134 , -0.027337 , 40.275793 , -0.032701 
  Banduxu por proaza,Asturias,805 m ,604 m ,"7,6 Km ","7,94 % ",195  , 43.248891 , -6.024199 , 43.222691 , -6.058102 
  Baños de Benasque por Benasque,Huesca,1680 m ,540 m ,"10,4 Km ","5,19 % ",126  , 42.603904 , 0.522058 , 42.661557 , 0.585444 
@@ -365,21 +341,15 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Barazar por Zeanuri,Bizkaia,606 m ,436 m ,"7,1 Km ","6,14 % ",77  , 43.098014 , -2.749522 , 43.066003 , -2.711864 
  Barbari por Segura,Gipuzkoa,523 m ,297 m ,"3,83 Km ","7,8 % ",69  , 43.005361 , -2.261928 , 42.99968 , -2.28109 
 " Barcella, Coll de la por S. Juan de Moró",Castellón,313 m ,173 m ,"7,6 Km ","2,28 % ",29  , 40.044175 , -0.151577 , 40.088414 , -0.096688 
-" Barco, Puerto del por Arroyo Hondo (Oeste)",Málaga,829 m ,348 m ,6 Km ,"5,8 % ",85  ,  ,  ,  ,  
-" Bardal, El por Villaescusa",Cantabria,1092 m ,226 m ,4 Km ,"5,65 % ",37  ,  ,  ,  ,  
  Barjacoba (Barrio do Pedazo) por Pías-Barrio de la Vega,Zamora,1290 m ,252 m ,"4,45 Km ","5,66 % ",54  , 42.093965 , -6.988385 , 42.120104 , -6.957829 
 " Barranc de Ramón, Cdo. (Sª Segaria) por Ráfol de Almunia",Alicante,417 m ,335 m ,"4,2 Km ","7,98 % ",78  , 38.822457 , -0.046864 , 38.830615 , -0.036135 
 " Barranca, A por Fontangordo",Lugo,860 m ,619 m ,"8,5 Km ","7,28 % ",180  , 43.299468 , -7.178475 , 43.244399 , -7.167943 
 " Barranca, A por Norte (CP 48-11)",Lugo,860 m ,759 m ,"11,2 Km ","6,7 % ",173  , 43.30714 ,  -7.17828 , 43.244399 , -7.167943 
 " Barranca, A por Santiago del Acebo",Lugo,860 m ,675 m ,"6,2 Km ","10,89 % ",287  , 43.241644 , -7.201155 , 43.244399 , -7.167943 
-" Barrancos Blancos, Puerto de los por Arroyo Salado (Norte)",Sevilla,547 m ,313 m ,"16,51 Km ","1,9 % ",54  ,  ,  ,  ,  
-" Barraques, Coll de les por Ribes de Fresser",Gerona,1910 m ,996 m ,"15,8 Km ","6,3 % ",221  , 42.31869 , 2.104362 , 42.338452 , 2.121342 
+" Barraques, Coll de les por Ribes de Freser",Gerona,1910 m ,996 m ,"15,8 Km ","6,3 % ",221  , 42.31869 , 2.104362 , 42.338452 , 2.121342 
  Barrendiola(presa) por Alto de Udana,Gipuzkoa,560 m ,77 m ,"3,4 Km ","2,25 % ",20  , 43.01483 , -2.358879 , 43.012163 , -2.344068 
  Barrenetxe por Goikolexea (Larrabetzu),Bizkaia,246 m ,160 m ,"2,5 Km ","6,4 % ",37  , 43.267214 , -2.784573 , 43.273971 , -2.759253 
-" Barrera, La por Les Fontines",Asturias,490 m ,164 m ,"2,6 Km ","6,3 % ",41  , 43.443198 , -5.676155 ,  ,  
-" Barrera, La por La Camocha",Asturias,490 m ,426 m ,"5,5 Km ","7,74 % ",123  , 43.487007 , -5.65105 ,  ,  
 " Barrerilla, La por Orduña",Bizkaia,641 m ,359 m ,"6,6 Km ","5,44 % ",63  , 42.993411 , -3.004675 , 42.988168 , -2.950881 
-" Barrial, Puerto de El por Embalse del Agrio",Sevilla,370 m ,251 m ,"16,08 Km ","1,6 % ",46  ,  ,  ,  ,  
  Barrios de Gordón por Pola de Gordón,León,1220 m ,193 m ,"2,82 Km ","6,84 % ",47  , 42.851861 , -5.674213 , 42.853096 , -5.701207 
  Barx por Simat,Valencia,321 m ,271 m ,5 Km ,"5,42 % ",46  , 39.044019 , -0.307531 , 39.024418 , -0.309548 
  Baselgas por Bayo,Asturias,428 m ,218 m ,6 Km ,"3,63 % ",87  , 43.316061 , -6.055527 , 43.310315 , -6.06514 
@@ -401,12 +371,10 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Belate por Irurita,Navarra,847 m ,679 m ,"18,87 Km ","3,6 % ",132  , 43.127804 , -1.549848 , 43.049613 , -1.610191 
  Belate por Ventas de Arraitz-Ultzama,Navarra,847 m ,250 m ,"6,69 Km ",4 % ,35  , 43.010337 , -1.636498 , 43.049613 , -1.610191 
  Belaustegi por Ibarra (Orozko),Bizkaia,751 m ,513 m ,"4,8 Km ","10,69 % ",275  , 43.095781 , -2.862593 , 43.06373 , -2.837605 
-" Bellmunt, Santuari de por Sant Pere de Torelló",Barcelona,1246 m ,648 m ,"6,9 Km ","9,4 % ",201  ,  ,  ,  ,  
 " Bellotar, El por Villaverde de Guadalimar",Albacete,1251 m ,466 m ,"8,6 Km ","5,42 % ",85  , 38.453767 , -2.516778 , 38.494857 , -2.554843 
 " Bellotar, El por Bienservida",Albacete,1251 m ,371 m ,"7,9 Km ","4,7 % ",58  , 38.515746 , -2.612779 , 38.494857 , -2.554843 
  Belvalle por Peralejos de las Truchas,Cuenca,1596 m ,456 m ,"7,1 Km ","6,42 % ",104  , 40.59918 , -1.95320 , 40.55833 , -1.95419 
  Belvalle por Puente de Vadillos,Cuenca,1597 m ,667 m ,"25,06 Km ","2,66 % ",115  , 40.53178 , -2.15065 , 40.55833 , -1.95419 
-" Bena, Coll de la por Bagá-Gisclareny",Barcelona,1434 m ,645 m ,"12,8 Km ",5 % ,158  ,  ,  ,  ,  
 " Benadressa, Urbanización por CV-189",Castellón,282 m ,167 m ,"4,4 Km ","3,8 % ",40  , 40.005758 , -0.141406 , 40.034416 , -0.140333 
 " Benadressa, Urbanización por Cruce S.J. Moró",Castellón,282 m ,142 m ,"3,3 Km ","4,3 % ",40  , 40.039345 , -0.15029 , 40.034416 , -0.140333 
 " Benadressa, Urbanización por Rambla de la Viuda",Castellón,282 m ,187 m ,"3,9 Km ","4,79 % ",42  , 40.021962 , -0.159945 , 40.034416 , -0.140333 
@@ -419,7 +387,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Benafigos, Pto. de por CV-165",Castellón,912 m ,532 m ,"9,9 Km ","5,37 % ",98  , 40.240521 , -0.146599 , 40.277496 , -0.207539 
 " Benafigos, Pto. de por Atzeneta",Castellón,912 m ,512 m ,"9,5 Km ","5,39 % ",94  , 40.215587 , -0.169344 , 40.277496 , -0.207539 
  Benalí por Enguera,Valencia,755 m ,490 m ,"14,8 Km ","3,31 % ",78  , 39.002577 , -0.691924 , 38.998475 , -0.828824 
- Benalua por por Colomera,Granada,933 m ,137 m ,"2,6 Km ","5,3 % ",20  ,  ,  ,  ,  
  Benarruel por Ademuz-Vallanca,Valencia,1178 m ,458 m ,"17,8 Km ","2,57 % ",69  , 40.058727 , -1.286602 , 39.999873 , -1.340418 
  Benassal por CV-15,Castellón,838 m ,121 m ,"3,6 Km ","3,36 % ",20  , 40.390423 , -0.112138 , 40.378328 , -0.135441 
  Beneixama (Alto del Moro) por Fontanars,Valencia,993 m ,388 m ,"7,2 Km ","5,39 % ",78  , 38.791222 , -0.792861 , 38.749498 , -0.786724 
@@ -475,7 +442,7 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Bizkaigane por Olabarri y Rigoitia,Bizkaia,401 m ,302 m ,"6,69 Km ","4,51 % ",41  , 43.309332 , -2.682552 , 43.322633 , -2.723215 
  Bizkaigane por Forua-Metxika,Bizkaia,398 m ,376 m ,7 Km ,"5,37 % ",84  , 43.331991 , -2.676941 , 43.322633 , -2.723215 
  Bizkarreta-Guerendiain por Erro,Navarra,780 m ,119 m ,5 Km ,"2,38 % ",17  , 42.942485 , -1.448228 , 42.969936 , -1.413381 
- Blancares por por La Peza,Granada,1349 m ,323 m ,"9,4 Km ","3,4 % ",46  ,  ,  ,  ,  
+ Blancares por por La Peza,Granada,1349 m ,323 m ,"9,4 Km ","3,4 % ",46  ,37.278865,-3.286148,37.251401,-3.375071
 " Bobia, La por Meredo",Asturias,1103 m ,994 m ,"13,5 Km ","7,36 % ",286  , 43.429175 , -7.004986 , 43.359884 , -6.936922 
 " Bobia, La por Puente Urubio",Asturias,1096 m ,980 m ,20 Km ,"4,9 % ",203  , 43.384903 , -6.839848 , 43.359884 , -6.936922 
  Bocairent por Ontinyent,Valencia,714 m ,341 m ,"14,3 Km ","2,36 % ",50  , 38.820618 , -0.610642 , 38.738017 , -0.654888 
@@ -492,15 +459,15 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Boixeda, Coll de la por Beget",Gerona,1098 m ,558 m ,"10,8 Km ","5,2 % ",101  , 42.321272 , 2.47998 , 42.33433 , 2.433545 
  Boldís-Sobirà por Ainet de Cardós,Lleida,1483 m ,555 m ,"9,6 Km ","5,78 % ",167  , 42.563568 , 1.226412 , 42.613241 , 1.271516 
  Bolibar por Eskoriatza,Gipuzkoa,440 m ,146 m ,"2,8 Km ","5,21 % ",23  , 43.015913 , -2.525238 , 43.003313 , -2.52737 
-" Bonaigua, La por Viella",Lleida,2072 m ,1102 m ,23 Km ,"4,79 % ",182  ,  ,  ,  ,  
-" Bonaigua, La por Esterri d'Aneu",Lleida,2072 m ,1112 m ,"20,5 Km ","5,42 % ",178  ,  ,  ,  ,  
+" Bonaigua, La por Viella",Lleida,2072 m ,1102 m ,23 Km ,"4,79 % ",182  ,42.706931,0.902871,42.663560,0.982591
+" Bonaigua, La por Esterri d'Aneu",Lleida,2072 m ,1112 m ,"20,5 Km ","5,42 % ",178  ,42.663560,0.982591,42.663560,0.982591
 " Bonansa, Puerto de por Bonansa (N-260)",Huesca,1366 m ,436 m ,"6,16 Km ","7,08 % ",93  , 42.440245 , 0.698785 , 42.423688 , 0.648143 
 " Bonansa, Puerto de por Herrerías de Calvera",Huesca,1366 m ,404 m ,"10,79 Km ","3,74 % ",61  , 42.378973 , 0.597117 , 42.423688 , 0.648143 
  Bonicaparra por Ezcaray,La Rioja,1264 m ,437 m ,8 Km ,"5,46 % ",73  , 42.316861 , -3.013 , 42.320779 , -2.957468 
 " Boquerón, El por El Herradón de Pinares",Ávila,1315 m ,405 m ,"8,7 Km ","4,65 % ",57  , 40.564025 , -4.560184 , 40.575435 , -4.607735 
 " Boquerón, El por Ávila",Ávila,1315 m ,203 m ,"6,9 Km ","2,94 % ",27  , 40.618881 , -4.63671 , 40.575435 , -4.607735 
- Boquete de Zafarraya por Puente de Don Manuel,Málaga,906 m ,686 m ,"11,8 Km ","5,81 % ",113  ,  ,  ,  ,  
-" Bordoi, Can por Llinars del Vallés",Barcelona,344 m ,156 m ,"2,4 Km ","6,5 % ",29  ,  ,  ,  ,  
+ Boquete de Zafarraya por Puente de Don Manuel,Málaga,906 m ,686 m ,"11,8 Km ","5,81 % ",113  ,36.886453, -4.147058,36.952482, -4.123370
+" Bordoi, Can por Llinars del Vallés",Barcelona,344 m ,156 m ,"2,4 Km ","6,5 % ",29  ,41.634901,2.405819,41.624427,2.403461
  Borraxeiros - A Picona por Filgueiras,Pontevedra,572 m ,492 m ,7 Km ,"7,03 % ",115  , 42.213691 , -8.190758 , 42.204974 , -8.227032 
 " Borriqueta, La por Sege",Albacete,1374 m ,712 m ,"15,4 Km ","4,62 % ",142  , 38.340993 , -2.247827 , 38.255514 , -2.328937 
 " Borriqueta, La por Los Casares",Albacete,1375 m ,637 m ,"12,4 Km ","5,12 % ",130  , 38.261895 , -2.265612 , 38.262152 , -2.346146 
@@ -509,8 +476,7 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Bostarratxeta por Bergantza-Osoño,Álava,558 m ,308 m ,"2,25 Km ","13,7 % ",154  , 43.056922 , -2.932051 , 43.068033 , -2.945623 
 " Bovalar, El por La Renegà",Castellón,120 m ,110 m ,"1,9 Km ","5,79 % ",18  , 40.06372 , 0.117588 , 40.07377 , 0.12939 
 " Bovalar, El por Oropesa",Castellón,120 m ,110 m ,"1,2 Km ","9,17 % ",32  , 40.080501 , 0.135784 , 40.07377 , 0.12939 
-" Boyar, El - Palomas, Las por El Bosque",Cádiz,1189 m ,917 m ,"19,6 Km ","4,68 % ",233  ,  ,  ,  ,  
-" Bracons, Coll de por Sant Pere de Torelló",Barcelona,1148 m ,560 m ,"13,4 Km ","4,2 % ",125  ,  ,  ,  ,  
+" Bracons, Coll de por Sant Pere de Torelló",Barcelona,1148 m ,560 m ,"14,3 Km ","4,2 % ",125  ,42.074457,2.298391,42.108339,2.376457
 " Bracons, Coll de por La Vall d'en Bas",Gerona,1148 m ,650 m ,"8,6 Km ","7,5 % ",164  , 42.130492 , 2.450648 , 42.108297 , 2.376423 
 " Braguía, La por Vega de Pas",Cantabria,720 m ,360 m ,"6,2 Km ","5,81 % ",60  , 43.15956 , -3.784368 , 43.177213 , -3.796728 
 " Braguía, La por Selaya",Cantabria,720 m ,480 m ,"8,2 Km ","5,85 % ",86  , 43.215038 , -3.806334 , 43.177213 , -3.796728 
@@ -518,8 +484,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Brañuas, Alto de por Villayon",Asturias,775 m ,402 m ,15 Km ,"2,68 % ",115  , 43.447186 , -6.703806 , 43.396691 , -6.646042 
 " Brañuas, Alto de por Rellanos",Asturias,775 m ,428 m ,5 Km ,"8,56 % ",120  , 43.393822 , -6.625872 , 43.396753 , -6.646042 
  Brisketa por Arrigorriaga,Bizkaia,258 m ,208 m ,"3,1 Km ","6,71 % ",42  , 43.211674 , -2.88728 , 43.224145 , -2.898771 
- Bronchales por Orihuela del Tremedal,Teruel,1500 m ,98 m ,"6,59 Km ","1,48 % ",16  ,  ,  ,  ,  
- Bronchales por Pozondón,Teruel,1505 m ,119 m ,4 Km ,"2,98 % ",20  ,  ,  ,  ,  
 " Brueva, Collada de por Selviella",Asturias,734 m ,578 m ,"5,4 Km ","10,7 % ",204  , 43.319183 , -6.221781 , 43.333294 , -6.249161 
 " Bucs, Coll de por Oix",Gerona,780 m ,369 m ,"4,1 Km ",9 % ,104  , 42.274659 , 2.536092 , 42.283775 , 2.514146 
 " Buenos Aires, Alto de por Chella",Valencia,477 m ,267 m ,8 Km ,"3,34 % ",49  , 39.044119 , -0.644331 , 39.022785 , -0.742006 
@@ -543,16 +507,9 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Busto, Portillo del por Bureba",Burgos,1003 m ,281 m ,"5,4 Km ","5,2 % ",42  , 42.664009 , -3.262918 , 42.689967 , -3.26574 
 " Busto, Portillo del por Frías",Burgos,1003 m ,458 m ,"12,4 Km ","3,69 % ",76  , 42.760869 , -3.295233 , 42.69007 , -3.265903 
 " Busto, Portillo del por Oña",Burgos,1003 m ,427 m ,16 Km ,"2,67 % ",79  , 42.736548 , -3.411341 , 42.689991 , -3.265815 
-" Caballón, El por Río Cuzna",Córdoba,726 m ,454 m ,"6,39 Km ","7,1 % ",97  ,  ,  ,  ,  
-" Caballón, El por Río Varas (Sur)",Córdoba,726 m ,498 m ,"17,45 Km ","2,9 % ",130  ,  ,  ,  ,  
-" Caballos, Los por Berja",Almería,846 m ,610 m ,16 Km ,"3,8 % ",95  ,  ,  ,  ,  
-" Caballos, Los por Cherín",Almería,846 m ,313 m ,"8,6 Km ","3,64 % ",51  ,  ,  ,  ,  
  Cabanes por Ribera de Cabanes,Castellón,362 m ,317 m ,"6,8 Km ","4,7 % ",53  , 40.138925 , 0.151448 , 40.160608 , 0.075359 
- Cabañas por Olvera,Cádiz,531 m ,131 m ,"1,79 Km ","7,28 % ",28  ,  ,  ,  ,  
- Cabañas por A-376,Cádiz,530 m ,156 m ,"8,8 Km ","1,76 % ",42  ,  ,  ,  ,  
  Cabañas por Riofrío,Ávila,1408 m ,219 m ,"4,09 Km ","5,34 % ",39  , 40.548053 , -4.782793 , 40.558883 , -4.76434 
  Cabañas y Matalindo por BU-8004 (Valle de Juarros),Burgos,1165 m ,134 m ,"4,1 Km ","3,27 % ",21  , 42.237637 , -3.482087 , 42.23187 , -3.438914 
-" Cabarcos, Alto de por Friera",León,845 m ,380 m ,"9,2 Km ","4,13 % ",115  ,  ,  ,  ,  
 " Cabas, Collado de por Presa Naranjero",Valencia,441 m ,143 m ,"3,5 Km ","4,09 % ",19  , 39.275554 , -0.850625 , 39.2508 , -0.791874 
 " Cabas, Collado de por Río Júcar",Valencia,441 m ,281 m ,"5,7 Km ","4,93 % ",46  , 39.266617 , -0.788183 , 39.2508 , -0.791874 
  Cabeza Alta por Encrucijada,Soria,1400 m ,198 m ,"4,19 Km ","4,71 % ",30  , 41.940935 , -2.947258 , 41.915838 , -2.945209 
@@ -561,13 +518,12 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Cabeza de Manzaneda por Bibei-Manzaneda,Orense,1760 m ,1448 m ,"30,5 Km ","4,75 % ",298  , 42.333632 , -7.214427 , 42.258227 , -7.300011 
  Cabeza del Fraile por Río Cabriel (Fte. Podrida),Valencia,665 m ,265 m ,"8,4 Km ","3,15 % ",39  , 39.339575 , -1.348014 , 39.406522 , -1.327629 
  Cabeza do Foxo - Portocamba por Laza,Orense,1102 m ,631 m ,13 Km ,"4,9 % ",104  , 42.061231 , -7.456652 , 42.081767 , -7.376897 
- Cabezabellosa por Villar de Plasencia,Cáceres,938 m ,509 m ,"10,5 Km ","4,85 % ",75  ,  ,  ,  ,  
+ Cabezabellosa por Villar de Plasencia,Cáceres,938 m ,509 m ,"10,5 Km ","4,85 % ",75  ,40.141691, -6.039643,40.123740,-6.000013
 " Cabezo, Alto del por Los Calpes",Castellón,862 m ,127 m ,3 Km ,"4,2 % ",18  , 40.073376 , -0.593476 , 40.075576 , -0.571289 
 " Cabezo, Alto del (Collado de Campo) por Montanejos",Castellón,862 m ,399 m ,"12,4 Km ","3,22 % ",58  , 40.072587 , -0.527773 , 40.075576 , -0.571246 
  Cabo Tiñoso por Campillo de Adentro,Murcia,369 m ,315 m ,"4,7 Km ","6,7 % ",61  , 37.566259 , -1.15413 , 37.551643 , -1.151959 
 " Cabra Montés, Mirador de la por Jete",Granada,1002 m ,893 m ,"17,1 Km ","5,22 % ",154  , 36.79744 , -3.667974 , 36.841827 , -3.721275 
  Cabrera - Faro Sa Punta l'Ensiola por Isla Cabrera,Baleares,101 m ,96 m ,"1,5 Km ","6,4 % ",17  , 39.129416 , 2.921716 , 39.131746 , 2.927445 
-" Cabrillas, Las por Iglesuela del Cid",Teruel,1320 m ,211 m ,"7,59 Km ","2,77 % ",35  ,  ,  ,  ,  
 " Cabrillas, Las por Iglesuela del Cid",Teruel,1329 m ,199 m ,6 Km ,"3,32 % ",32  , 40.46396 , -0.311952 , 40.503195 , -0.306373 
 " Cabrillas, Las por La Cuba",Castellón,1331 m ,476 m ,"16,4 Km ","2,9 % ",96  , 40.613822 , -0.293627 , 40.503129 , -0.306416 
 " Cabrillas, Las por Portell de Morella",Castellón,1329 m ,249 m ,6 Km ,"4,15 % ",38  , 40.533079 , -0.262556 , 40.503195 , -0.306373 
@@ -594,10 +550,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Calera, Coll de la por La Portera",Valencia,737 m ,103 m ,"3,3 Km ","3,12 % ",14  , 39.415143 , -1.107216 , 39.445804 , -1.099019 
 " Calera, Coll de la por Río Turia",Valencia,520 m ,170 m ,"2,8 Km ","6,07 % ",30  , 39.696852 , -1.002202 , 39.710158 , -0.988383 
 " Calera, Coll de la por Calles",Valencia,520 m ,170 m ,"3,9 Km ","4,36 % ",28  , 39.726267 , -0.974994 , 39.710158 , -0.988383 
-" Calera, La por Villanueva de San Juan",Sevilla,629 m ,291 m ,"7,23 Km ",4 % ,58  ,  ,  ,  ,  
-" Calerilla, Puerto de la por Benaoján",Málaga,773 m ,341 m ,"9,25 Km ","3,7 % ",54  ,  ,  ,  ,  
-" Calero, El por Solana del Pino",Ciudad Real,970 m ,257 m ,"3,9 Km ","6,59 % ",61  ,  ,  ,  ,  
-" Calero, El por Presa de Montoro",Ciudad Real,970 m ,420 m ,"12,1 Km ","3,62 % ",83  ,  ,  ,  ,  
 " Calibet, Lloma de por Cocentaina (norte)",Alicante,589 m ,221 m ,"3,5 Km ","6,31 % ",43  , 38.759471 , -0.427008 , 38.751406 , -0.392976 
 " Calibet, Lloma de por Cocentaina (sur)",Alicante,589 m ,221 m ,3 Km ,"7,37 % ",51  , 38.753749 , -0.423489 , 38.751406 , -0.392976 
  Callosa d'En Sarrià por Altea la Vella,Alicante,225 m ,175 m ,"4,7 Km ","3,72 % ",23  , 38.631053 , -0.078106 , 38.650025 , -0.121837 
@@ -640,14 +592,14 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Campillo, El por Sisterna",Asturias,1075 m ,320 m ,5 Km ,"6,4 % ",64  , 42.951083 , -6.678572 , 42.952151 , -6.624498 
  Camping El Concurso por Ctra Abejar-Molinos,Soria,1150 m ,65 m ,2 Km ,"3,27 % ",9  , 41.833416 , -2.78753 , 41.820497 , -2.791693 
  Campo do Pozo por Portomouro,La Coruña,476 m ,311 m ,"7,9 Km ","3,92 % ",49  , 42.959205 , -8.64737 , 42.991169 , -8.692346 
- Campo la Cruz por Secadura,Cantabria,351 m ,323 m ,"6,1 Km ","5,3 % ",72  ,  ,  ,  ,  
+ Campo la Cruz por Secadura,Cantabria,351 m ,323 m ,4 Km ,"5,3 % ",72  ,43.355365,-3.537115, 43.366392 , -3.546782 
  Campo la Cruz por Solórzano,Cantabria,388 m ,268 m ,"3,7 Km ","7,24 % ",63  , 43.376366 , -3.5864 , 43.366392 , -3.546782 
 " Campo la Eria, Collado de por Cruce carretera Somiedo",Asturias,770 m ,593 m ,"7,9 Km ","6,9 % ",217  , 43.243202 , -6.233025 , 43.247578 , -6.246071 
  Campo Layal (La Aparecida) por Ampuero,Cantabria,418 m ,403 m ,"6,5 Km ","6,2 % ",75  , 43.342242 , -3.427691 , 43.318287 , -3.470142 
  Campo Rubín por Ponte Nafonso,La Coruña,356 m ,351 m ,"5,85 Km ",6 % ,66  , 42.834772 , -8.874301 , 42.858444 , -8.848444 
 " Camporiol, Coll de por Castellfollit de la Roca",Gerona,508 m ,247 m ,7 Km ,"3,53 % ",36  , 42.221244 , 2.552744 , 42.258776 , 2.537056 
-" Can Taló, Coll de por Sant Miquel del Fai",Barcelona,764 m ,297 m ,"8,8 Km ","3,4 % ",44  ,  ,  ,  ,  
-" Canaleta, La por Montanejos",Castellón,851 m ,382 m ,"7,1 Km ","5,38 % ",79  , 40.085394 ," ,-0.504427 ", 40.113625 , -0.46443 
+" Can Taló, Coll de por Sant Miquel del Fai",Barcelona,764 m ,297 m ,"8,8 Km ","3,4 % ",44  ,41.718126,2.186650,41.753908,2.210371
+" Canaleta, La por Montanejos",Castellón,851 m ,382 m ,"7,1 Km ","5,38 % ",79  , 40.085394 , -0.504427 , 40.113625 , -0.46443 
  Canalí (Teulau) por Banyeres de Mariola,Alicante,1014 m ,334 m ,"12,1 Km ","2,8 % ",56  , 38.710161 , -0.6745 , 38.65646 , -0.650082 
  Canalí (Teulau) por Onil,Alicante,1014 m ,334 m ,"6,7 Km ","5,11 % ",54  , 38.625186 , -0.672998 , 38.65646 , -0.650082 
 " Cancho Cabeza, Alto de por Patones-El Atazar",Madrid,1067 m ,358 m ,"11,7 Km ","3,05 % ",68  , 40.877764 , -3.445673 , 40.893986 , -3.503609 
@@ -664,10 +616,9 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Canteres, Les por Náquera-Serra",Valencia,309 m ,129 m ,"4,5 Km ","2,9 % ",17  , 39.645651 , -0.429711 , 39.672181 , -0.432887 
 " Canteres, Les por Porta-Coeli",Valencia,309 m ,99 m ,"3,7 Km ","2,7 % ",15  , 39.661379 , -0.473099 , 39.672181 , -0.432887 
 " Cantio, El por por Miera",Cantabria,740 m ,540 m ,8 Km ,"6,25 % ",136  , 43.284224 , -3.69868 , 43.281214 , -3.753898 
- Cantó por Adrall,Lleida,1718 m ,1078 m ,"25,79 Km ","4,17 % ",200  ,  ,  ,  ,  
+" Cantó, El por Adrall",Lleida,1718 m ,1078 m ,"25,79 Km ","4,17 % ",200  ,42.325948,1.398718,42.370138,1.236772
 " Cantón, El por Montanejos",Castellón,932 m ,472 m ,"11,9 Km ","3,97 % ",104  , 40.072456 , -0.526271 , 40.117662 , -0.549188 
  Cantonad por Paradores,Burgos,488 m ,120 m ,"2,8 Km ","4,28 % ",19  , 43.095468 , -3.33817 , 43.088808 , -3.35495 
- Cañá del Corchuelo por,Huelva,593 m ,188 m ,"3,27 Km ","5,74 % ",39  ,  ,  ,  ,  
  Cañada de Abajo por Jarafuel,Valencia,615 m ,205 m ,"6,5 Km ","3,15 % ",33  , 39.15682 , -1.030655 , 39.16667 , -0.994434 
  Cañada de la Huesa por Valdemeca,Cuenca,1527 m ,207 m ,"4,14 Km ",5 % ,37  , 40.20308 , -1.73032 , 40.20529 , -1.69378 
  Cañada de la Huesa por Laguna del Marquesado,Cuenca,1527 m ,209 m ,"7,06 Km ","2,96 % ",30  , 40.17628 , -1.67196 , 40.20529 , -1.69378 
@@ -678,17 +629,16 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Cañadillas, Collado de las por La Paridera",Valencia,586 m ,86 m ,"1,6 Km ","5,34 % ",14  , 39.371895 , -0.880322 , 39.372625 , -0.860324 
 " Cañadillas, Collado de las por Alborache",Valencia,586 m ,326 m ,"11,6 Km ","2,81 % ",64  , 39.392859 , -0.765309 , 39.372625 , -0.860324 
  Cáñar por Órgiva,Granada,1048 m ,726 m ,"11,15 Km ","6,51 % ",150  , 36.884378 , -3.415289 , 36.9264 , -3.427566 
- Cañaveral por Cherín,Almería,930 m ,397 m ,"12,19 Km ","3,25 % ",70  ,  ,  ,  ,  
  Cañón del Leza por Ribafrecha,La Rioja,812 m ,286 m ,"10,5 Km ","2,72 % ",47  , 42.356895 , -2.388411 , 42.297437 , -2.421563 
  Cap de la Serra por Morella,Castellón,945 m ,173 m ,"2,7 Km ","6,41 % ",32  , 40.611248 , -0.127759 , 40.604178 , -0.141792 
  Cap de la Serra por Cinctorres,Castellón,945 m ,200 m ,"5,3 Km ","3,77 % ",30  , 40.593132 , -0.188184 , 40.604178 , -0.141792 
-" Cap del Rec, Refugi del por Martinet-Lles de Cerdanya",Lleida,1986 m ,977 m ,"16,4 Km ",6 % ,179  ,  ,  ,  ,  
+" Cap del Rec, Refugi del por Martinet-Lles de Cerdanya",Lleida,1986 m ,977 m ,"16,4 Km ",6 % ,179  ,42.361350,1.689830,42.430866,1.666868
  Capía por Vargas,Cantabria,463 m ,410 m ,5 Km ,8 % ,125  , 43.321471 , -3.962379 , 43.301049 , -3.990741 
  Capía por por Puente Viesgo,Cantabria,463 m ,392 m ,"4,75 Km ","9,5 % ",142  , 43.298593 , -3.967094 , 43.301049 , -3.990741 
  Capileira por Pampaneira,Granada,1832 m ,662 m ,"9,9 Km ","6,69 % ",133  , 36.930111 , -3.364391 , 36.96043 , -3.342726 
-" Capolat, Malpás por Espunyola",Barcelona,1295 m ,444 m ,"5,1 Km ","8,7 % ",148  ,  ,  ,  ,  
+" Capolat, Malpás por Espunyola",Barcelona,1295 m ,444 m ,"5,1 Km ","8,7 % ",148  ,42.058906,1.736646,42.074340,1.707850
  Capsacosta por Vall de Bianya,Gerona,870 m ,455 m ,"8,66 Km ","5,25 % ",69  , 42.235139 , 2.430553 , 42.256606 , 2.398592 
-" Caracol, El por Liérganes-San Roque",Cantabria,822 m ,737 m ,"23,1 Km ","3,19 % ",146  ,  ,  ,  ,  
+" Caracol, El por Liérganes-San Roque",Cantabria,822 m ,737 m ,"23,1 Km ","3,19 % ",146  ,43.341640, -3.744064,43.222256,-3.731822
 " Caracol, El por Selaya",Cantabria,822 m ,593 m ,"10,75 Km ","5,61 % ",118  , 43.211128 , -3.805647 , 43.222169 , -3.732004 
  Caraita (La Capona) por Cocentaina (Benifloret),Alicante,639 m ,244 m ,4 Km ,"6,1 % ",50  , 38.742034 , -0.426493 , 38.742335 , -0.380015 
  Caraita (La Capona) por CV-790,Alicante,639 m ,219 m ,"5,5 Km ","3,98 % ",32  , 38.725999 , -0.410013 , 38.742335 , -0.380015 
@@ -719,13 +669,10 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Carrascal, El por Hoya de la Guija",Ávila,1431 m ,299 m ,"4,2 Km ","7,1 % ",72  , 40.602168 , -4.278967 , 40.621259 , -4.249313 
  Carrascoy por MU - 603,Murcia,1058 m ,868 m ,"9,5 Km ","9,14 % ",322  , 37.871283 , -1.313739 , 37.844234 , -1.270988 
 " Carrasqueta, La por Xixona",Alicante,1022 m ,588 m ,"12,8 Km ","4,6 % ",83  , 38.540982 , -0.503654 , 38.605066 , -0.486317 
- Carretera Unbe por Mendiondo,Bizkaia,110 m ,66 m ,"1,1 Km ",6 % ,12  ,  ,  ,  ,  
  Carril Bici de la M607 por Tres Cantos,Madrid,952 m ,188 m ,12 Km ,"1,6 % ",35  , 40.596445 , -3.718103 , 40.681986 , -3.775162 
  Casa de Uceda por CM123,Guadalajara,923 m ,170 m ,"4,2 Km ","4,05 % ",24  , 40.86884 , -3.377187 , 40.842775 , -3.360489 
- Casa del Nen (Valle de Cornudella) por N-230,Huesca,968 m ,303 m ,"6,92 Km ","4,38 % ",60  ,  ,  ,  ,  
  Casa del Rabosero por Ayora,Valencia,813 m ,263 m ,"4,8 Km ","5,48 % ",70  , 39.060783 , -1.038594 , 39.048719 , -1.093311 
  Casa Forestal de Pié Pajarón por Embalse de La Toba,Cuenca,1292 m ,102 m ,"1,85 Km ","5,51 % ",16  , 40.21619 , -1.89430 , 40.22348 , -1.88664 
- Casa Pavia (Valle de Cornudella) por N-230,Huesca,885 m ,220 m ,"3,18 Km ","6,92 % ",50  ,  ,  ,  ,  
  Casa Ribera (El Realenc) por Carcaixent,Valencia,233 m ,203 m ,"4,4 Km ","4,61 % ",30  , 39.124834 , -0.437307 , 39.091333 , -0.399799 
  Casa Vitla por Castell de Castells,Alicante,635 m ,140 m ,"1,2 Km ","11,67 % ",58  , 38.730887 , -0.202432 , 38.737582 , -0.206466 
  Casarejos por Casarejos,Soria,1120 m ,52 m ,2 Km ,"2,59 % ",7  , 41.79395 , -3.02917 , 41.804472 , -3.048713 
@@ -747,11 +694,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Casielles por N-625 Puente la Huera,Asturias,812 m ,467 m ,"3,85 Km ","12,1 % ",198  , 43.187249 , -5.077786 , 43.189666 , -5.090725 
  Casielles por Puente Aguera N-625,Asturias,809 m ,475 m ,4 Km ,"11,87 % ",195  , 43.187312 , -5.077701 , 43.189377 , -5.090575 
  Cassanya por Almenara,Castellón,154 m ,114 m ,"3,4 Km ","3,2 % ",16  , 39.762565 , -0.231142 , 39.774704 , -0.258608 
- Castanesa (Pueblo) por Noales (Carretera Vieja),Huesca,1510 m ,512 m ,"9,23 Km ","5,55 % ",97  ,  ,  ,  ,  
- Castanesa (Pueblo) por Noales (Carretera Nueva),Huesca,1510 m ,512 m ,"7,96 Km ","6,43 % ",105  ,  ,  ,  ,  
-" Castañares, Los por Arroyo San Pedro",Sevilla,615 m ,305 m ,"7,9 Km ","3,9 % ",43  ,  ,  ,  ,  
-" Castaño, El por Era Grande",Córdoba,801 m ,285 m ,"7,49 Km ","3,8 % ",66  ,  ,  ,  ,  
- Castarné (Pueblo) por N-260,Huesca,1069 m ,139 m ,"2,33 Km ","5,97 % ",26  ,  ,  ,  ,  
  Castell de Cullera por Cullera,Valencia,105 m ,103 m ,"1,5 Km ","6,87 % ",24  , 39.165272 , -0.245347 , 39.165339 , -0.249081 
  Castell de Montesa por Río Cáñoles,Valencia,344 m ,161 m ,"3,5 Km ","4,6 % ",30  , 38.934911 , -0.633945 , 38.953235 , -0.661068 
  Castell de Vilavella por Vilavella,Castellón,118 m ,78 m ,"0,8 Km ","9,8 % ",24  , 39.858759 , -0.184236 , 39.862581 , -0.190673 
@@ -773,8 +715,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Castilblanques por Casas del Cura,Valencia,720 m ,242 m ,"6,7 Km ","3,61 % ",49  , 39.276218 , -1.039796 , 39.321782 , -1.030054 
  Castilblanques por Viñuelas,Valencia,720 m ,100 m ,"1,7 Km ","6,18 % ",24  , 39.324604 , -1.018424 ,  39.321782 , -1.030054 
  Castilblanques por Rambla Ripia,Valencia,720 m ,242 m ,"5,2 Km ","4,65 % ",42  , 39.279972 , -1.019025 , 39.321782 , -1.030054 
- Castilleja de la Cuesta por Cuesta del Caracol,Sevilla,108 m ,88 m ,"3,1 Km ","2,8 % ",12  ,  ,  ,  ,  
- Castillo de Constantina por Constantina,Sevilla,592 m ,105 m ,"4,2 Km ","2,5 % ",15  ,  ,  ,  ,  
  Castillo de Feria por Feria,Badajoz,670 m ,270 m ,4 Km ,"7,2 % ",71  , 38.518964 , -6.535174 , 38.514717 , -6.568022 
  Castillo de Puebla de Sanabria por Plaza de Armas (Este),Zamora,948 m ,32 m ,"0,21 Km ","15,24 % ",18  , 42.052506 , -6.633469 , 42.054784 , -6.633824 
  Castillo de Puebla de Sanabria por Herraduras (Oeste),Zamora,948 m ,50 m ,"0,65 Km ","7,69 % ",11  , 42.057384 , -6.634568 , 42.054784 , -6.633824 
@@ -793,9 +733,8 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Castrelos-Alto da Penagueira (La Gamoneda) por Hermisende,Zamora,1073 m ,276 m ,"8,7 Km ","3,17 % ",45  , 41.966392 , -6.903241 , 42.016566 , -6.914485 
  Castríos por Las Machorras,Burgos,1394 m ,562 m ,8 Km ,7 % ,170  , 43.117651 , -3.589611 , 43.100591 , -3.651366 
  Castro de Alcañices por Salto de Castro,Zamora,758 m ,200 m ,"4,37 Km ","4,58 % ",39  , 41.575158 , -6.187118 , 41.600574 , -6.181659 
- Castro Filabres por Rambla de la Galexa (Al-405),Almería,954 m ,275 m ,"5,9 Km ","4,65 % ",47  ,  ,  ,  ,  
 " Castrobarto, Alto de por Castrobarto",Burgos,784 m ,106 m ,"2,3 Km ","4,61 % ",15  , 43.04054 , -3.389025 , 43.025294 , -3.375978 
-" Castro-Filabres, Alto de por Gérgal",Almería,1273 m ,685 m ,"18,5 Km ","2,7 % ",105  ,  ,  ,  ,  
+" Castro-Filabres, Alto de por Gérgal",Almería,1273 m ,685 m ,"18,5 Km ","2,7 % ",105  ,37.114250,-2.532548,37.179564,-2.463029
  Castromil (A Portela) por Alto do Ladiairo,Zamora,1085 m ,136 m ,"5,1 Km ","2,67 % ",24  , 41.965339 , -6.945083 , 41.997432 , -6.971347 
  Castromil (A Portela) por Cádavos,Orense,1085 m ,193 m ,"6,65 Km ","2,9 % ",31  , 41.975901 , -7.008426 , 41.997432 , -6.971347 
  Castroviejo por Duruelo de la Sierra,Soria,1529 m ,337 m ,"6,7 Km ","5,03 % ",54  , 41.952298 , -2.926229 , 41.988305 , -2.921637 
@@ -807,7 +746,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Cebreiro, O por Villafranca del Bierzo",León,1300 m ,700 m ,"17,7 Km ","3,95 % ",102  , 42.663955 , -6.946113 , 42.707867 , -7.044218 
 " Cebreiro, O por As Nogais (N-6)",Lugo,1300 m ,790 m ,"19,5 Km ","4,05 % ",110  , 42.808666 , -7.110136 , 42.709408 , -7.041017 
 " Cebreiro, O por Laguna de Tablas",Lugo,1300 m ,456 m ,7 Km ,"6,51 % ",105  , 42.728231 , -7.059728 , 42.709408 , -7.041017 
-" Cebreiro, O (Camino de Santiago) por La Laguna de Castilla",León,1405 m ,800 m ,"15,9 Km ","5,02 % ",205  ,  ,  ,  ,  
 " Cedacero, El por Mazarrón - La Azohía",Murcia,310 m ,140 m ,"4,9 Km ","5,6 % ",88  , 37.576868 , -1.184149 , 37.598633 , -1.140718 
  Cellorigo por LR-312,La Rioja,770 m ,175 m ,"2,5 Km ",7 % ,38  , 42.620091 , -2.990965 , 42.628126 , -2.998066 
  Cellorigo por Miranda de Ebro,La Rioja,770 m ,305 m ,10 Km ,3 % ,41  , 42.678936 , -2.949252 , 42.628126 , -2.998066 
@@ -819,24 +757,12 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Cerezal, La por Arcallana",Asturias,674 m ,482 m ,"5,3 Km ","9,09 % ",139  , 43.516315 , -6.301947 , 43.499134 , -6.288729 
  Cerler-Ampriú por Benasque,Huesca,1912 m ,777 m ,"13,8 Km ","5,63 % ",187  , 42.608263 , 0.523174 , 42.560645 , 0.568964 
 " Cerredo, Puerto de por Fondos de Vega",Asturias,1359 m ,615 m ,17 Km ,"3,61 % ",103  , 42.953282 , -6.614456 , 42.954538 , -6.439533 
- Cerro Becerrero por Gilena,Sevilla,841 m ,499 m ,"13,9 Km ","3,6 % ",132  ,  ,  ,  ,  
- Cerro Becerrero por La Salada,Sevilla,841 m ,505 m ,"8,69 Km ","5,8 % ",121  ,  ,  ,  ,  
- Cerro Becerrero por El Rubio o Marinaleda,Sevilla,841 m ,604 m ,"12,69 Km ","4,8 % ",141  ,  ,  ,  ,  
  Cerro Caracoles por Ayora-río Zarra,Valencia,822 m ,147 m ,5 Km ,"2,94 % ",21  , 39.077309 , -1.127687 , 39.092865 , -1.17837 
- Cerro de la Juana por Olula de Castro (fin MTB),Almería,1252 m ,535 m ,"18,2 Km ","2,94 % ",122  ,  ,  ,  ,  
- Cerro de la Juana por Castro Filabres (fin MTB),Almería,1252 m ,573 m ,"10,6 Km ","5,4 % ",105  ,  ,  ,  ,  
- Cerro de Miranda por Fondón,Almería,1005 m ,205 m ,"3,9 Km ","5,26 % ",30  ,  ,  ,  ,  
- Cerro de Miranda por Rágol - Canjáyar,Almería,1005 m ,594 m ,"17,39 Km ","3,41 % ",104  ,  ,  ,  ,  
  Cerro de San Pedro por Colmenar Viejo,Madrid,1058 m ,149 m ,6 Km ,"2,48 % ",21  , 40.682688 , -3.769727 , 40.730885 , -3.733764 
  Cerro de San Pedro por Guadalix de la Sierra,Madrid,1058 m ,218 m ,"10,3 Km ","2,1 % ",35  , 40.778699 , -3.690856 , 40.716633 , -3.753598 
- Cerro del Moro (Repetidor de Mijas) por Benalmádena,Málaga,952 m ,933 m ,"14,2 Km ","6,57 % ",266  ,  ,  ,  ,  
  Cerro del Socorro por Cuenca,Cuenca,1152 m ,231 m ,"10,04 Km ","2,3 % ",43  , 40.07653 , -2.12813 , 40.07581 , -2.12296 
  Cerro del Socorro por Cruce CU-914,Cuenca,1152 m ,179 m ,"6,06 Km ","2,95 % ",34  , 40.08366 , -2.09264 , 40.07581 , -2.12296 
  Cerro La Plana (La Marquesa) por La Xara,Alicante,152 m ,135 m ,"2,1 Km ","6,43 % ",26  , 38.826904 , 0.080209 , 38.816639 , 0.075788 
- Cerro Malacara por por Obeilar,Granada,891 m ,272 m ,"4,8 Km ","5,67 % ",73  ,  ,  ,  ,  
- Cerro Muriano por Sur,Córdoba,558 m ,374 m ,"10,76 Km ","3,5 % ",57  ,  ,  ,  ,  
- Cerro Negrillo por Constantina,Sevilla,854 m ,352 m ,"10,22 Km ","3,4 % ",50  ,  ,  ,  ,  
- Cerro Negro por La Cabra (N-630),Sevilla,330 m ,157 m ,"8,1 Km ","1,9 % ",24  ,  ,  ,  ,  
  Cerro Ramón por Casas de Juan Gil,Albacete,1049 m ,219 m ,"8,6 Km ","2,55 % ",31  , 39.125499 , -1.242743 , 39.111249 , -1.245275 
  Cerro Ramón por La Hunde,Valencia,1049 m ,239 m ,"11,7 Km ","2,04 % ",39  , 39.045053 , -1.198626 , 39.111249 , -1.245275 
  Cerro San Bartolo por Villameca,León,1307 m ,323 m ,"4,37 Km ","7,37 % ",91  , 42.643083 , -6.076619 , 42.657823 , -6.108345 
@@ -866,10 +792,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Chera, Alto de por Sot de Chera",Valencia,675 m ,317 m ,"9,5 Km ","3,34 % ",47  , 39.620731 , -0.918088 , 39.574006 , -0.986838 
  Chía por San Martín de la V. Alberche,Ávila,1663 m ,178 m ,"2,5 Km ","7,11 % ",37  , 40.433696 , -5.157273 , 40.455503 , -5.162458 
  Chía por Villafranca de la Sierra,Ávila,1663 m ,598 m ,"11,8 Km ","5,04 % ",104  , 40.505707 , -5.255413 , 40.455503 , -5.162458 
-" Chimorra, La por Río Guadalbarbo (Sur)",Córdoba,731 m ,287 m ,"4,75 Km ",6 % ,55  ,  ,  ,  ,  
-" Chinarrales, Los por Norte",Córdoba,818 m ,379 m ,"5,15 Km ","7,4 % ",95  ,  ,  ,  ,  
-" Chinos, Cuesta de los por Río Retortillo",Córdoba,349 m ,154 m ,3 Km ,"5,1 % ",24  ,  ,  ,  ,  
-" Chirivía, Puerto de - Loma del Aire por Río Onza",Sevilla,735 m ,390 m ,"19,21 Km ",2 % ,80  ,  ,  ,  ,  
  Chirivilla (Pico del Aguila) por Olocau,Valencia,712 m ,506 m ,19 Km ,"2,7 % ",79  , 39.676112 , -0.540648 , 39.797293 , -0.535669 
  Chirivilla (Pico del Aguila) por Segorbe,Castellón,712 m ,387 m ,"9,4 Km ","4,12 % ",74  , 39.841232 , -0.49181 , 39.797392 , -0.535583 
  Chirivilla (Pico del Aguila) por Altura,Castellón,712 m ,329 m ,"7,9 Km ","4,2 % ",61  , 39.832861 , -0.517559 , 39.797392 , -0.535583 
@@ -878,8 +800,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Chirrichana, La por Casas del Cura",Valencia,725 m ,247 m ,"5,5 Km ","4,49 % ",40  , 39.276218 , -1.039796 , 39.299934 , -1.075459 
 " Chirrichana, La por Salto de Cofrentes",Valencia,725 m ,394 m ,"8,7 Km ","4,53 % ",59  , 39.249404 , -1.09374 , 39.299934 , -1.075459 
 " Chorreones, Los por Río Segura",Albacete,950 m ,300 m ,"3,1 Km ","9,68 % ",95  , 38.29153 , -2.424209 , 38.282334 , -2.402837 
- Chorreras (Repetidor) por Niefla (Norte),Ciudad Real,1095 m ,355 m ,"5,9 Km ","6,02 % ",60  ,  ,  ,  ,  
-" Chorrito, El por Norte",Sevilla,154 m ,96 m ,"2,2 Km ","4,4 % ",17  ,  ,  ,  ,  
  Cilleruelo de Bricia por Villamediana de Lomas,Burgos,986 m ,202 m ,"2,9 Km ",7 % ,40  , 42.885776 , -3.882208 , 42.893929 , -3.849299 
  Cinctorres por Forcall,Castellón,990 m ,242 m ,6 Km ,"4,03 % ",32  , 40.611379 , -0.198097 , 40.547233 , -0.218568 
  Cinctorres por Morella,Castellón,990 m ,180 m ,"14,3 Km ","1,26 % ",65  , 40.611248 , -0.127888 , 40.567741 , -0.223289 
@@ -947,7 +867,7 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Colldecarrera, Collet de por Castellfollit de la Roca",Gerona,634 m ,373 m ,"10,83 Km ","3,44 % ",105  , 42.221244 , 2.552744  , 42.255153 , 2.46362 
 " Collet, El por Coves de Vinromà",Castellón,296 m ,115 m ,"2,5 Km ","4,6 % ",16  , 40.314712 , 0.123854 , 40.315432 , 0.141063 
 " Collet, El por Alcalà de Xivert",Castellón,296 m ,124 m ,"3,1 Km ",4 % ,16  , 40.300771 , 0.165396 , 40.315432 , 0.141063 
- Collformic por Seva,Barcelona,1143 m ,480 m ,"9,5 Km ","5,1 % ",74  ,  ,  ,  ,  
+ Collformic por Seva,Barcelona,1143 m ,480 m ,"9,5 Km ","5,1 % ",74  ,41.837319, 2.281085, 41.801020 , 2.347442 
  Collformic por Montseny,Barcelona,1145 m ,815 m ,"15,4 Km ","5,3 % ",152  , 41.746879 , 2.402089 , 41.801020 , 2.347442 
  Collfred por Sant Privat d'en Bas,Gerona,1326 m ,832 m ,"12,92 Km ","6,44 % ",243  , 42.154965 , 2.416563 , 42.155305 , 2.340576 
 " Colmenar, Puerto de El por Jubrique (Sur)",Málaga,755 m ,524 m ,"9,89 Km ","5,3 % ",109  , 36.567207 , -5.246469 , 36.585098 , -5.20685 
@@ -1066,8 +986,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Cruz, Puerto de la por Bahía de Casares",Málaga,428 m ,418 m ,"12,52 Km ","3,3 % ",65  ,  ,  ,  ,  
 " Cuadriechas, Las por Onón",Asturias,1016 m ,651 m ,14 Km ,"4,65 % ",140  , 43.222691 , -6.453781 , 43.176641 , -6.402197 
  Cuarenta Pinos (Prados y Arroyo del Cervunal) por Hoyos del Espino,Ávila,1665 m ,222 m ,3 Km ,"7,4 % ",54  , 40.359007 , -5.178489 , 40.372878 , -5.182464 
- Cuarto Pelado por Fortanete,Teruel,1657 m ,312 m ,"7,4 Km ","4,21 % ",63  ,  ,  ,  ,  
- Cuarto Pelado por Mirambel,Teruel,1657 m ,747 m ,"25,2 Km ","2,96 % ",131  ,  ,  ,  ,  
  Cuatro Caminos por Navardún,Zaragoza,848 m ,368 m ,"7,5 Km ","4,91 % ",62  , 42.512699 , -1.146918 , 42.542963 , -1.120262 
  Cuatro Caminos por Ruesta,Zaragoza,848 m ,248 m ,6 Km ,"4,13 % ",42  ,  42.588664 , -1.075535 , 42.542963 , -1.120262 
 " Cuatro Caminos, Alto de por Chiva",Valencia,402 m ,167 m ,9 Km ,"1,86 % ",27  , 39.47092 , -0.698748 , 39.417762 , -0.728531 
@@ -1082,38 +1000,26 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Cubel, Puerto de por Morata de Jiloca",Zaragoza,1193 m ,581 m ,"20,8 Km ","2,79 % ",110  , 41.251118 , -1.584631 , 41.112603 , -1.601433 
 " Cubilla, La por Encío (parcialmente asfaltado)",Burgos,997 m ,365 m ,"10,51 Km ","3,47 % ",80  , 42.667858 , -3.08497 , 42.708804 , -3.151016 
 " Cubilla, La por Campomanes",Asturias,1683 m ,1293 m ,"28,1 Km ","4,6 % ",229  , 43.101986 , -5.820179 , 42.990334 , -5.905838 
-" Cuerda, La por San Lorenzo de Calatrava",Ciudad Real,980 m ,220 m ,"4,2 Km ","5,24 % ",44  ,  ,  ,  ,  
- Cuesta de Castilleja de Guzmán por Camas,Sevilla,145 m ,125 m ,"3,2 Km ",4 % ,17  ,  ,  ,  ,  
- Cuesta de la Media Fanega por Antigua N-630,Sevilla,328 m ,206 m ,"4,1 Km ",5 % ,31  ,  ,  ,  ,  
- Cuesta de la Media Fanega por Kung Fu,Sevilla,328 m ,212 m ,"5,5 Km ","4,2 % ",32  ,  ,  ,  ,  
- Cuesta de la Media Fanega (Nueva) por N-630,Sevilla,328 m ,195 m ,"3,5 Km ","5,5 % ",30  ,  ,  ,  ,  
- Cuesta de las Doblas por A-472,Sevilla,129 m ,104 m ,"2,2 Km ","4,8 % ",15  ,  ,  ,  ,  
- Cuesta de los Depósitos por Norte,Sevilla,175 m ,93 m ,"1,47 Km ","6,3 % ",17  ,  ,  ,  ,  
  Cuesta de los Dos Ríos por Corral Blanco-Bicorp,Valencia,402 m ,92 m ,"1,8 Km ","5,1 % ",18  , 39.128862 , -0.796337 , 39.122436 , -0.799942 
  Cuesta de los Dos Ríos por Río Cazuma,Valencia,402 m ,92 m ,"2,4 Km ","3,85 % ",14  , 39.116943 , -0.816164 , 39.122436 , -0.799942 
  Cuesta de los Dos Ríos por Bicorp,Valencia,402 m ,112 m ,2 Km ,"5,6 % ",18  , 39.131891 , -0.789127 , 39.122436 , -0.799942 
  Cuesta de los Dos Ríos por Río Ludey,Valencia,402 m ,182 m ,"2,8 Km ","6,5 % ",39  , 39.118474 , -0.775051 , 39.122436 , -0.799942 
  Cuesta de los Dos Ríos por Quesa,Valencia,402 m ,212 m ,4 Km ,"5,3 % ",40  , 39.126731 , -0.764837 , 39.122436 , -0.799942 
  Cuesta de San Antonio por puerto de Jávea,Alicante,183 m ,182 m ,"2,1 Km ","8,67 % ",52  , 38.795805 , 0.182691 , 38.802226 , 0.179687 
- Cuesta de Valencina por Santiponce,Sevilla,137 m ,113 m ,"2,9 Km ","4,1 % ",19  ,  ,  ,  ,  
- Cuesta del Camino Real Viejo por Río Guadiamar,Sevilla,134 m ,112 m ,"1,5 Km ","7,8 % ",26  ,  ,  ,  ,  
- Cuesta del Gato por Río Huesna,Sevilla,624 m ,195 m ,"8,4 Km ","2,3 % ",28  ,  ,  ,  ,  
  Cuesta del Muerto por Chelva,Valencia,521 m ,119 m ,2 Km ,"5,95 % ",35  , 39.747652 , -1.000528 , 39.732373 , -1.004691 
  Cuesta del Muerto por Río Turia,Valencia,521 m ,161 m ,2 Km ,"8,05 % ",39  , 39.723593 , -1.017737 , 39.732373 , -1.004691 
  Cuesta del Muerto por Calles,Valencia,521 m ,171 m ,"3,9 Km ","4,38 % ",29  , 39.726333 , -0.974908 , 39.732373 , -1.004691 
- Cuesta del Sanguino por Suroeste,Sevilla,315 m ,258 m ,"6,65 Km ","3,9 % ",36  ,  ,  ,  ,  
 " Cuesta, La por Tallante",Murcia,349 m ,147 m ,"2,2 Km ","6,68 % ",29  , 37.639122 , -1.17975 , 37.629606 , -1.185458 
  Cueto Arguer por Colunga AS-260,Asturias,371 m ,287 m ,"5,97 Km ","4,8 % ",45  , 43.478709 , -5.255241 , 43.461766 , -5.313606 
  Cueto Rosales por El Castillo,León,1541 m ,464 m ,"5,52 Km ","8,4 % ",121  , 42.789212 , -6.027363 , 42.770911 , -6.046922 
  Cueto Rosales por Castro de la Lomba,León,1541 m ,514 m ,"10,67 Km ","4,8 % ",78  , 42.768171 , -5.956306 , 42.770911 , -6.046922 
  Cuetos por Rondera - Langreo,Asturias,492 m ,255 m ,"2,8 Km ","9,3 % ",83  , 43.293372 , -5.673822 , 43.301930 , -5.654451 
- Cueva de Agua por por Deifontes,Granada,1769 m ,1018 m ,12 Km ,"8,5 % ",290  ,  ,  ,  ,  
  Cueva de Los Murciélagos por Zuheros,Córdoba,985 m ,519 m ,"8,7 Km ","5,97 % ",122  , 37.55425 , -4.316297 , 37.542172 , -4.304159 
 " Cuevica, La por Azuébar",Castellón,375 m ,100 m ,"2,4 Km ","4,2 % ",21  , 39.834081 , -0.37066 , 39.830686 , -0.354352 
 " Cuevica, La por Algar de Palancia",Castellón,375 m ,195 m ,"6,6 Km ","2,95 % ",33  , 39.782751 , -0.364566 , 39.830686 , -0.354352 
  Culla por Benassal,Castellón,1051 m ,135 m ,"2,8 Km ","4,82 % ",21  , 40.350927 , -0.151749 , 40.336797 , -0.164366 
  Culla por Torre Embesora,Castellón,1051 m ,513 m ,"14,3 Km ","3,59 % ",90  , 40.339054 , -0.058966 , 40.336797 , -0.164366 
- Culla por CV-165,Castellón,1051 m ,684 m ,"16,4 Km ","4,17 % ",127  , 40.245598 , -0.140762 ,  ,  
+ Culla por CV-165,Castellón,1051 m ,684 m ,"16,4 Km ","4,17 % ",127  , 40.245598 , -0.140762 , 40.336797 , -0.164366 
  Culla por Torre Embesora-variante Culla,Castellón,1051 m ,513 m ,14 Km ,"3,66 % ",78  , 40.339086 , -0.058966 , 40.33696 , -0.164452 
  Culou por Noia - San Xusto,La Coruña,494 m ,483 m ,"9,5 Km ","5,08 % ",88  , 42.787433 , -8.879185 , 42.802297 , -8.803858 
  Cumbre del Sol por Moraira-Benitatxell,Alicante,422 m ,378 m ,"6,28 Km ","5,8 % ",106  , 38.705004 , 0.13587 , 38.721546 , 0.160418 
@@ -1125,7 +1031,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Dagüeño, Alto de por Javita",Asturias,999 m ,718 m ,18 Km ,"3,98 % ",212  , 43.258456 , -6.466656 , 43.211807 , -6.37928 
  Daño por Parque Tecn. Zamudio,Bizkaia,254 m ,222 m ,"3,2 Km ","6,94 % ",75  , 43.293294 , -2.872174 , 43.313516 , -2.861102 
 " Degollada, Alto de la por Trasmonte",Asturias,532 m ,294 m ,5 Km ,"5,88 % ",51  , 43.455224 , -5.975533 , 43.457467 , -5.997076 
-" Degollados, Los (Collado Frío) por Río Guadalope",Teruel,1261 m ,425 m ,"8,8 Km ","4,81 % ",75  ,  ,  ,  ,  
  Dehesa Vieja de Pedraza por La Velilla - Pedraza,Segovia,1163 m ,174 m ,6 Km ,"2,9 % ",26  , 41.138977 , -3.81938 , 41.093713 , -3.820496 
  Denuy (Pueblo) por N-260 (Noales),Huesca,1295 m ,297 m ,"6,84 Km ","4,34 % ",66  , 42.458252 , 0.660289 , 42.496286 , 0.633681 
  Desierto de las Palmas por La Magdalena,Castellón,423 m ,394 m ,"8,8 Km ","4,48 % ",55  , 40.026004 , -0.008197 , 40.074131 , 0.026951 
@@ -1153,21 +1058,16 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  El Corralón por La Nueva - Langreo,Asturias,609 m ,304 m ,"1,9 Km ",16 % ,183  , 43.260898 , -5.674358 , 43.257268 , -5.662529 
  El Cotet (Albaida) por Muro de Alcoy,Alicante,733 m ,390 m ,"8,7 Km ","4,48 % ",88  , 38.782123 , -0.41276 , 38.803698 , -0.466189 
  El Cotet (Albaida) por Albaida,Valencia,733 m ,453 m ,"9,4 Km ","4,82 % ",98  , 38.844755 , -0.519061 , 38.803698 , -0.466189 
- El Encinarejo por por Algarinejo,Granada,912 m ,340 m ,"8,5 Km ",4 % ,54  ,  ,  ,  ,  
  El Far (+Condreu) por Hostalets d'en Bas,Gerona,1122 m ,633 m ,"14,64 Km ","4,32 % ",97  , 42.099779 , 2.45965 , 42.02104 , 2.536436 
  El Fenollar por N-340,Valencia,139 m ,129 m ,"2,2 Km ","5,86 % ",23  , 39.122303 , -0.287104 , 39.112048 , -0.295601 
  El Fito por Arriondas,Asturias,590 m ,534 m ,"9,3 Km ","5,7 % ",99  , 43.394454 , -5.191764 , 43.439062 , -5.193486 
  El Fito por Loroñe,Asturias,590 m ,560 m ,"7,3 Km ","7,6 % ",145  , 43.466602 , -5.225104 , 43.439062 , -5.193486 
- El Lucero por por Fornes,Granada,1213 m ,295 m ,"6,1 Km ","4,8 % ",50  ,  ,  ,  ,  
- El Lucero por por Bermejales,Granada,1199 m ,279 m ,"5,2 Km ","5,37 % ",48  ,  ,  ,  ,  
  El Oro por Cortes de Pallás,Valencia,645 m ,267 m ,5 Km ,"5,34 % ",44  , 39.275487 , -0.951433 , 39.299967 , -0.904827 
  El Peñon por Puente Palmero,Cuenca,1076 m ,206 m ,"9,04 Km ","2,29 % ",32  , 39.98349 , -2.25193 , 39.99335 , -2.31798 
  El Peñon por Barbalimpia,Cuenca,1076 m ,123 m ,"1,75 Km ",7 % ,25  , 39.98517 , -2.33167 , 39.99335 , -2.31798 
  El Pinar por Ademuz,Valencia,1120 m ,400 m ,8 Km ,5 % ,91  , 40.056198 , -1.277633 , 39.999742 , -1.315956 
  El Pozuelo por Rio Guadilela,Cuenca,1243 m ,482 m ,"11,69 Km ","4,1 % ",125  , 40.50909 , -2.32446 , 40.57943 , -2.29262 
  El Pozuelo por Alcantud,Cuenca,1243 m ,413 m ,"6,7 Km ","6,16 % ",114  , 40.54898 , -2.32871 , 40.57943 , -2.29262 
- El Zegrí por por Iznalloz,Granada,1212 m ,199 m ,"4,5 Km ","4,4 % ",30  ,  ,  ,  ,  
- El Zegrí por por Onitar,Granada,1212 m ,193 m ,"6,4 Km ",3 % ,33  ,  ,  ,  ,  
  Elgeta por Elorrio,Bizkaia,468 m ,278 m ,"5,2 Km ","5,35 % ",75  , 43.128187 , -2.539698 , 43.136721 , -2.487904 
  Elgeta por Bergara,Gipuzkoa,468 m ,333 m ,"6,5 Km ","5,12 % ",75  , 43.126188 , -2.422989 , 43.136605 , -2.487439 
  Elkorrieta por Sasiola,Gipuzkoa,194 m ,167 m ,"2,75 Km ","6,07 % ",30  , 43.2698 , -2.371942 , 43.269081  , -2.365032  
@@ -1184,8 +1084,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Embotelladora de Cortes por Fuentes de Rubielos,Castellón,1101 m ,351 m ,"6,3 Km ","5,57 % ",60  , 40.159132 , -0.569916 , 40.190709 , -0.549016 
 " Eme, La por Pesquera de Ebro",Burgos,1027 m ,374 m ,"7,1 Km ","5,27 % ",68  , 42.801998 , -3.722241 , 42.797385 , -3.675249 
  Emerando por Bakio,Bizkaia,167 m ,148 m ,"2,9 Km ","5,1 % ",30  , 43.411657 , -2.814474 , 43.390439 , -2.799014 
-" Emes, Alto de Las por Río Turia (La Olmeda)",Cuenca,905 m ,243 m ,"4,06 Km ","5,99 % ",43  ,  ,  ,  ,  
-" Emes, Alto de Las por Río Turia (Vert. Norte)",Cuenca,905 m ,225 m ,"3,43 Km ","6,54 % ",46  ,  ,  ,  ,  
  Encinas Borrachas por San Pablo de Buceite (Sur),Málaga,1026 m ,976 m ,42 Km ,"2,3 % ",231  , 36.469865 , -5.406225 , 36.672835 , -5.203278 
  Encinas Borrachas por Ronda (Norte),Málaga,1006 m ,298 m ,"9,7 Km ","3,1 % ",51  , 36.734252 , -5.164869 , 36.672835 , -5.203278 
 " Encrucijada, La por Burgos",Soria,1202 m ,79 m ,"1,5 Km ","5,26 % ",12  , 41.942116 , -2.963394 , 41.940967 , -2.947043 
@@ -1212,10 +1110,8 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Ermida por Petín,Orense,563 m ,247 m ,9 Km ,"2,74 % ",37  , 42.38582 , -7.132752 , 42.337906 , -7.178113 
  Ermita de la Misericordia por Vinaròs,Castellón,161 m ,117 m ,3 Km ,"3,9 % ",22  , 40.493796 , 0.439582 , 40.510797 , 0.425506 
  Ermita de la Misericordia por Campo de Golf,Castellón,161 m ,71 m ,"1,2 Km ","5,92 % ",14  , 40.51915 , 0.41851 , 40.510797 , 0.425506 
- Ermita de las Angustias/La Contraviesa por por Jorairatar y Murtas,Granada,1294 m ,744 m ,"18,3 Km ","4,08 % ",139  ,  ,  ,  ,  
  Ermita de S. Rafael por Tavernes de Valldigna,Valencia,123 m ,113 m ,"1,2 Km ","9,42 % ",33  , 39.078708 , -0.251269 , 39.083239 , -0.258307 
  Ermita de San Cristóbal por Castellnovo,Castellón,571 m ,263 m ,"3,3 Km ",8 % ,95  , 39.855696 , -0.472112 , 39.868082 , -0.458851 
- Ermita de San Cristóbal por Villarubia de los Ojos,Ciudad Real,775 m ,151 m ,"2,3 Km ","6,57 % ",30  ,  ,  ,  ,  
  Ermita de San Isidro por Camino de San Isidro,Cuenca,1050 m ,129 m ,"3,32 Km ","3,89 % ",20  , 40.10340 , -2.12868 , 40.08517 , -2.12467 
  Ermita de San Isidro por Puente de la Trinidad,Cuenca,1050 m ,138 m ,"1,9 Km ","7,26 % ",29  , 40.07712 , -2.13625 , 40.08517 , -2.12467 
  Ermita de Sant Esteve por Ontinyent,Valencia,784 m ,456 m ,"7,2 Km ","6,33 % ",109  , 38.827138 , -0.605922 , 38.843685 , -0.669136 
@@ -1239,7 +1135,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Ermita Sta. Catalina por Aras de los Olmos,Valencia,1170 m ,282 m ,"9,3 Km ","3,03 % ",39  , 39.911547 , -1.10743 , 39.948108 , -1.113353 
  Ermita Sta. Llucia i St. Benet por Alcossebre,Castellón,350 m ,345 m ,"4,5 Km ","7,7 % ",100  , 40.256473 , 0.292768 , 40.264169 , 0.269465 
  Ermita Virgen de Montiel por Benaguacil,Valencia,217 m ,79 m ,"0,9 Km ","8,78 % ",21  , 39.595107 , -0.594935 , 39.593453 , -0.597425 
-" Ermitas, Alto de las por La Albaida",Córdoba,571 m ,437 m ,"15,71 Km ","2,8 % ",84  ,  ,  ,  ,  
  Errea por Setoain,Navarra,842 m ,342 m ,"5,1 Km ","6,7 % ",67  , 42.906095 , -1.535347 , 42.889401 , -1.505606 
  Errimendi por Gernika-Lumo,Bizkaia,385 m ,376 m ,"5,3 Km ","7,09 % ",87  , 43.314578 , -2.67796 , 43.327191 , -2.714739 
  Erro por Erro,Navarra,801 m ,141 m ,"3,2 Km ","4,4 % ",20  , 42.942462 , -1.448287 , 42.941638 , -1.470603 
@@ -1248,7 +1143,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Escalerón, El por Villanueva-Rampalay",Burgos,895 m ,274 m ,"5,8 Km ","4,69 % ",52  , 42.840463 , -3.730717 , 42.851318 , -3.771765 
  Escalona por Presa de Tous,Valencia,314 m ,151 m ,"3,3 Km ","4,58 % ",23  , 39.130094 , -0.651112 , 39.11924 , -0.679479 
  Escalona por Navarrés,Valencia,314 m ,88 m ,"1,4 Km ","6,29 % ",20  , 39.111615 , -0.681496 , 39.11924 , -0.679479 
- Escandón por Teruel,Teruel,1242 m ,360 m ,"15,5 Km ","2,31 % ",56  ,  ,  ,  ,  
 " Escarandi, Jito de por Poncebos",Asturias,1308 m ,1090 m ,"14,5 Km ","7,52 % ",285  , 43.258268 , -4.830594 , 43.238137 , -4.719357 
  Escobados por Salas de Bureba,Burgos,1061 m ,469 m ,"16,6 Km ","2,6 % ",70  , 42.694549 , -3.475285 , 42.754008 , -3.611326 
 " Escobias, Alto das por Lampón",La Coruña,223 m ,215 m ,"4,8 Km ","4,44 % ",47  , 42.639913 , -8.901515 , 42.660294 , -8.917773 
@@ -1259,14 +1153,11 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Eskisaroi por Indarte Erreka,Navarra,512 m ,289 m ,"3,59 Km ","8,02 % ",78  , 43.230424 , -1.540625 , 43.216352 , -1.553371 
  Eslida por Azuébar,Castellón,657 m ,382 m ,"11,9 Km ","3,2 % ",55  , 39.833916 , -0.370853 , 39.867538 , -0.313325 
  Eslida por Artana,Castellón,657 m ,567 m ,"15,5 Km ","3,66 % ",97  , 39.894427 , -0.198526 , 39.867538 , -0.313325 
-" Españares, Alto de por Montoro",Córdoba,739 m ,510 m ,"17,41 Km ","3,37 % ",77  ,  ,  ,  ,  
 " Espejón, Alto de por Espejón",Soria,1152 m ,129 m ,"2,9 Km ","4,45 % ",21  , 41.830201 , -3.257253 , 41.840113 , -3.240066 
  Esperabán por Pinofranqueado,Cáceres,1295 m ,849 m ,22 Km ,"3,86 % ",185  , 40.301774 , -6.332098 , 40.399645 , -6.397587 
 " Espina, Alto de la por Casazorrina",Asturias,660 m ,509 m ,13 Km ,"4,62 % ",79  , 43.40168 , -6.236629 , 43.410659 , -6.31422 
 " Espina, Alto de la por Castañedo",Asturias,660 m ,484 m ,11 Km ,"4,4 % ",66  , 43.410659 , -6.31422 , 43.444444 , -6.364346 
 " Espina, Coll de la por N-260 (Noales)",Huesca,1406 m ,408 m ,"6,3 Km ","6,48 % ",79  , 42.458252 , 0.660289 , 42.464952 , 0.618746 
-" Espino (Antenas), Puerto del por Algatocín",Málaga,883 m ,652 m ,"10,25 Km ","6,4 % ",136  ,  ,  ,  ,  
-" Espino, El por Algatocín",Málaga,867 m ,632 m ,"9,2 Km ","6,87 % ",128  ,  ,  ,  ,  
 " Espino, Puerto del por Gaucín",Málaga,844 m ,755 m ,"13,93 Km ","5,4 % ",165  , 36.49257 , -5.306275 , 36.558577 , -5.288851 
 " Espino, Puerto del por Río Guadiaro (Oeste)",Málaga,827 m ,466 m ,9 Km ,"5,2 % ",71  , 36.600616 , -5.332171 , 36.558577 , -5.288851 
 " Espino, Puerto del por Benarrabá",Málaga,844 m ,662 m ,"8,29 Km ",8 % ,182  , 36.548971 , -5.258249 , 36.558577 , -5.288851 
@@ -1278,14 +1169,10 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Estacas de Trueba por Vega de Pas,Cantabria,1166 m ,793 m ,"14,2 Km ","5,58 % ",133  , 43.158256 , -3.783245 , 43.117754 , -3.704073 
  Estacas de Trueba por Espinosa de los Monteros,Burgos,1166 m ,338 m ,"11,8 Km ","2,86 % ",46  , 43.117619 , -3.589654 , 43.117651 , -3.704238 
  Estación de Esquí de Lunada por Las Machorras,Burgos,1275 m ,457 m ,"10,4 Km ","4,39 % ",76  , 43.117878 , -3.590335 , 43.165616 , -3.654016 
- Estación del Colmenar por Estación del Colmenar,Málaga,672 m ,446 m ,"7,5 Km ","5,9 % ",85  ,  ,  ,  ,  
- Estación ffcc de Sto Tomé por Sto Tomé del Puerto,Segovia,1274 m ,143 m ,"2,38 Km ","6,01 % ",26  ,  ,  ,  ,  
 " Esteban, Alto por Castejón de Valdejasa",Zaragoza,707 m ,205 m ,"8,1 Km ","2,55 % ",29  , 41.435208 , -1.484063 ,  41.934822 , -0.936092 
 " Esteban, Alto por Villanueva de Gállego",Zaragoza,706 m ,432 m ,"19,9 Km ","2,17 % ",68  , 41.781122 , -0.834152 , 41.934822 , -0.936092 
- Estenalles por Navarcles (Norte),Barcelona,870 m ,626 m ,"20,9 Km ",3 % ,111  ,  ,  ,  ,  
-" Estenalles, Coll d' por Terrasa",Barcelona,870 m ,553 m ,"14,4 Km ","3,8 % ",75  ,  ,  ,  ,  
-" Estenalles, Coll d' por Ctra. del Coll de Lligabosses",Barcelona,870 m ,390 m ,"7,8 Km ",5 % ,72  ,  ,  ,  ,  
- Estet (Pueblo) por N-230,Huesca,1206 m ,166 m ,"2,13 Km ","7,79 % ",39  ,  ,  ,  ,  
+ Estenalles por Navarcles (Norte),Barcelona,870 m ,626 m ,"20,9 Km ",3 % ,111  ,41.670537,1.994961,41.670537,1.994961
+" Estenalles, Coll d' por Terrasa",Barcelona,870 m ,553 m ,"14,4 Km ","3,8 % ",75  ,41.584738,2.018486,41.670537,1.994962
  Estoupelo por Vilabol de Suarna,Lugo,870 m ,534 m ,"6,8 Km ","7,85 % ",154  , 43.095487 , -7.025514 , 43.069085 , -7.029798 
 " Estranguada, La por por Lloreda-Esles",Cantabria,687 m ,547 m ,11 Km ,5 % ,122  , 43.294819 , -3.821762 , 43.270216 , -3.763075 
 " Estranguada, La por por Esles",Cantabria,687 m ,567 m ,"11,6 Km ","4,88 % ",105  , 43.281662 , -3.804277 , 43.270216 , -3.763075 
@@ -1305,20 +1192,14 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Fageca por Quatretondeta,Alicante,773 m ,91 m ,"1,6 Km ","5,7 % ",21  , 38.729882 , -0.294099 , 38.733364 , -0.273628 
  Faido por Samiano,Burgos,778 m ,175 m ,"4,3 Km ","4,07 % ",30  , 42.694441 , -2.664886 , 42.668193 , -2.657075 
  Falgars d'en Bas por Hostalets d'en Bas,Gerona,949 m ,452 m ,"4,06 Km ","11,13 % ",174  , 42.095973 , 2.452113 , 42.085627 , 2.439694 
-" Falgars, Santuari de la Mare de Deu de por La Pobla de Lillet",Barcelona,1278 m ,459 m ,"7,2 Km ","6,4 % ",89  ,  ,  ,  ,  
-" Falgars, Santuari de la Mare de Deu de por Guardiola del Berguedá",Barcelona,1278 m ,550 m ,"9,6 Km ","5,7 % ",115  ,  ,  ,  ,  
 " Falla de los lobos,La por Bimenes",Asturias,654 m ,291 m ,5 Km ,"5,82 % ",58  , 43.330984 , -5.565991 , 43.297011 , -5.565863 
 " Falla de los lobos,La por Barredos",Asturias,654 m ,360 m ,6 Km ,6 % ,71  , 43.26205 , -5.574403 , 43.297011 , -5.565863 
  Fanzara por Fanzara,Castellón,333 m ,117 m ,"2,1 Km ","5,6 % ",18  , 40.017065 , -0.313582 , 40.002964 , -0.318003 
  Fanzara por Espadilla,Castellón,333 m ,106 m ,"2,1 Km ","5,1 % ",16  , 40.014337 , -0.332379 , 40.002964 , -0.318003 
 " Farell, El por Caldes de Montbui (v. corta)",Barcelona,701 m ,464 m ,"6,2 Km ","7,5 % ",113  , 41.635802 , 2.16253 , 41.665749 , 2.138556 
-" Farell, El por Caldes de Montbui (v. larga)",Barcelona,701 m ,464 m ,8 Km ,"5,8 % ",76  ,  ,  ,  ,  
-" Fariu, Picu por Sariego?",Asturias,736 m ,458 m ,"7,3 Km ","6,27 % ",127  ,  ,  , 43.420261 , -5.585604 
  Faro por Río Comezo - Requeixo,Lugo,1180 m ,630 m ,"8,6 Km ","7,33 % ",147  , 42.600735 , -7.853165 , 42.621581 , -7.897711 
  Faro de Cullera por Cullera,Valencia,105 m ,103 m ,"1,6 Km ","6,87 % ",19  , 39.181308 , -0.228696 , 39.185899 , -0.226893 
-" Faro de Montanuy, Puerto de por N-260 (Noales)",Huesca,1377 m ,379 m ,"5,4 Km ","7,02 % ",89  ,  ,  ,  ,  
-" Faro de Montanuy, Puerto de por Vilaller",Huesca,1377 m ,423 m ,"5,86 Km ","7,22 % ",94  ,  ,  ,  ,  
-" Farrapona, La por Embalse de la Malva",Asturias,1709 m ,1087 m ,19 Km ,"5,72 % ",244  , 43.117651 , -6.251907 ,  ,  
+" Farrapona, La por Embalse de la Malva",Asturias,1709 m ,1087 m ,19 Km ,"5,72 % ",244  , 43.117651 , -6.251907 ,43.057394, -6.090420
  Favara (La Nucia) por Altea,Alicante,258 m ,254 m ,7 Km ,"3,63 % ",39  ," 38,601746 "," -0,056434 "," 38,617642 "," -0,124927 "
  Feixolin por Orallo - Villager de Laciana,León,1480 m ,429 m ,"4,53 Km ","9,47 % ",133  , 42.955662 , -6.354116 , 42.97361 , -6.336458 
  Femés (Lanzarote) por Las Breñas,Las Palmas,361 m ,320 m ,"5,8 Km ","5,51 % ",85  , 28.937751 , -13.815271 , 28.912866 , -13.779281 
@@ -1340,8 +1221,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Font de Dalt (Millena) por Cº Cormellar (Millena),Alicante,685 m ,178 m ,3 Km ,"5,93 % ",33  , 38.722316 , -0.377269 , 38.733933 , -0.363665 
  Font de Dalt (Millena) por CV-790,Alicante,685 m ,265 m ,"6,5 Km ","4,08 % ",42  , 38.725965 , -0.410228 , 38.734301 , -0.363493 
  Font de la Botalaria por Borriol,Castellón,270 m ,125 m ,"2,2 Km ","5,68 % ",23  , 40.035435 , -0.078106 , 40.049628 , -0.095015 
-" Font de la Cera, Alt de por El Masnou",Barcelona,289 m ,284 m ,"5,7 Km ",5 % ,44  ,  ,  ,  ,  
-" Font de la Cera, Alt de por Vilanova del Vallés",Barcelona,289 m ,182 m ,"5,2 Km ","3,5 % ",31  ,  ,  ,  ,  
  Font de la Salut por CV-136,Castellón,292 m ,107 m ,3 Km ,"3,57 % ",20  , 40.497549 , 0.321136 , 40.504337 , 0.297618 
  Font de la Salut por Càlig,Castellón,292 m ,181 m ,"5,4 Km ","3,35 % ",25  , 40.473004 , 0.337272 , 40.504337 , 0.297618 
  Font de la Serra por Vilafamés,Castellón,480 m ,245 m ,"3,3 Km ","7,42 % ",86  , 40.126063 , -0.056734 , 40.104468 , -0.056391 
@@ -1365,7 +1244,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Font d'Onàer por Altea la Vella,Alicante,420 m ,370 m ,"8,5 Km ","4,35 % ",58  , 38.630919 , -0.078106 , 38.674153 , -0.130119 
  Font d'Onàer por La Nucia,Alicante,420 m ,288 m ,"5,5 Km ","5,24 % ",50  , 38.635344 , -0.119133 , 38.674153 , -0.130119 
  Font Freda por Montaverner-Atzeneta,Valencia,711 m ,541 m ,"12,2 Km ","4,43 % ",98  , 38.890632 , -0.499234 , 38.82911 , -0.460911 
- Font Montnegre (Urbanización) por Sant Iscle de Vallalta,Barcelona,577 m ,449 m ,"5,53 Km ","8,2 % ",133  ,  ,  ,  ,  
 " Font Nova, Urbanización por Peñíscola",Castellón,136 m ,116 m ,"2,5 Km ","4,64 % ",18  , 40.336698 , 0.375037 , 40.333362 , 0.360317 
 " Font, Coll de la por C-12 (Río Ebro)-Coll de Musso",Tarragona,440 m ,400 m ,12 Km ,"3,32 % ",83  , 40.981126 , 0.516164 , 41.044407 , 0.452743 
  Fontanars por Moixent,Valencia,654 m ,329 m ,20 Km ,"1,65 % ",60  , 38.869919 , -0.756941 , 38.787944 , -0.740333 
@@ -1375,10 +1253,8 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Fonte da Cova-Collada Trevinca por Sobradelo,Orense,1837 m ,1507 m ,"27,1 Km ","5,56 % ",301  , 42.412976 , -6.911802 , 42.313379 , -6.731408 
  Fonte da Cova-Collada Trevinca por La Baña,León,1837 m ,785 m ,"10,7 Km ","7,34 % ",181  , 42.270713 , -6.669908 , 42.318548 , -6.735482 
 " Fontes, As por Noceda",Lugo,1143 m ,444 m ,"4,24 Km ","10,5 % ",175  , 42.75833 , -7.081765 , 42.744448 , -7.094725 
- Forat del Vent por Cerdanyola del Vallés,Barcelona,349 m ,279 m ,"6,9 Km ",4 % ,38  ,  ,  ,  ,  
- Forat del Vent por Horta (Barcelona),Barcelona,349 m ,224 m ,4 Km ,"5,6 % ",35  ,  ,  ,  ,  
+ Forat del Vent por Cerdanyola del Vallés,Barcelona,349 m ,279 m ,"6,9 Km ",4 % ,38  ,41.482497,2.132756,41.447511,2.135548
 " Forcados, Os - Curota, A por Pobra do Caramiñal",La Coruña,590 m ,554 m ,10 Km ,"5,54 % ",122  , 42.606724 , -8.952346 , 42.636013 , -8.977785 
-" Forestal, La por Arroyo de la Vega",Córdoba,582 m ,431 m ,"16,64 Km ","2,6 % ",78  ,  ,  ,  ,  
  Formentera - Pilar de la Mola por Platja Migjorn,Baleares,163 m ,160 m ,4 Km ,4 % ,23  , 38.663658 , 1.513741 , 38.673008 , 1.54656 
  Formentera - Sa Talaiassa por Platja Migjorn,Baleares,195 m ,192 m ,"4,45 Km ","4,31 % ",26  , 38.663658 , 1.513741 , 38.665276 , 1.535037 
  Formigal por Sallent de Gállego,Huesca,1605 m ,323 m ,"6,09 Km ","5,3 % ",56  , 42.769735 , -0.33264 , 42.779564 , -0.357252 
@@ -1397,30 +1273,19 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Fredes por La Sénia,Castellón,1150 m ,728 m ,16 Km ,"4,5 % ",120  , 40.668595 , 0.263801 , 40.693622 , 0.166125 
  Fredes por Molí l'Abat-El Boixar,Castellón,1178 m ,770 m ,"20,8 Km ","3,7 % ",132  , 40.669572 , 0.25363 , 40.681159 , 0.152822 
  Fresnedillas-Las Canteras por Quijorna,Madrid,957 m ,396 m ,"11,6 Km ",36 % ,57  , 40.432118 , -4.095068 , 40.48864 , -4.16575 
-" Fresnidiello, Collada de por Sevares",Asturias,573 m ,463 m ,6 Km ,"7,71 % ",110  ,  ,  ,  ,  
-" Fresnidiello, Collada de por La Vega",Asturias,573 m ,353 m ,4 Km ,"8,82 % ",103  ,  ,  ,  ,  
 " Fresno, Portillo del por Sedano",Burgos,1047 m ,285 m ,11 Km ,"2,7 % ",43  , 42.717129 , -3.749084 , 42.643935 , -3.748226 
  Fuendetodos por Villanueva de Huerva,Zaragoza,763 m ,228 m ,5 Km ,"4,6 % ",34  , 41.352017 , -1.034636 , 41.338771 , -0.97986 
 " Fuenfría, Puerto de la por Guadarrama",Madrid,1796 m ,836 m ,"25,6 Km ","3,2 % ",140  , 40.738055 , -4.066465 , 40.79219 , -4.059834 
  Fuente del Collado (Bustarviejo) por Guadalix de la Sierra,Madrid,1280 m ,430 m ,"16,4 Km ","2,6 % ",79  , 40.793029 , -3.692057 , 40.855218 , -3.728235 
  Fuente del Collado (Bustarviejo) por Miraflores de la Sierra,Madrid,1283 m ,180 m ,7 Km ,"2,57 % ",31  , 40.824007 , -3.756552 , 40.855306 , -3.728163 
- Fuente el Negro por Río Huesna,Sevilla,545 m ,260 m ,"8,12 Km ","3,2 % ",43  ,  ,  ,  ,  
- Fuente García (Tajo) por Frías de Albarracín,Teruel,1633 m ,193 m ,"5,59 Km ","3,45 % ",28  ,  ,  ,  ,  
  Fuente la Reina por La Granja de San Ildefonso,Segovia,1640 m ,387 m ,"9,25 Km ","4,18 % ",84  , 40.900039 , -4.009252 , 40.812594 , -4.056544 
 " Fuente La Reina por Valsaín, cuesta La Gallega",Segovia,1640 m ,460 m ,"11,2 Km ","4,11 % ",92  , 40.878672 , -4.039192 , 40.81225 , -4.056702 
  Fuente Las Varas por San Miguel de Aras,Cantabria,450 m ,366 m ,6 Km ,"6,1 % ",65  , 43.334267 , -3.55206 , 43.340452 , -3.582187 
- Fuente las Varas por Solórzano,Cantabria,446 m ,358 m ,"7,2 Km ",5 % ,58  ,  ,  ,  ,  
- Fuente las Varas por Matienzo,Cantabria,446 m ,298 m ,"4,5 Km ","6,62 % ",56  ,  ,  ,  ,  
- Fuente los Ñudos(Sª Salvada) por Llanteno,Álava,670 m ,470 m ,"9,89 Km ","4,75 % ",153  ,  ,  ,  ,  
  Fuentes de Corbero por Cruce carretera Genestoso,Asturias,1026 m ,371 m ,4 Km ,"9,27 % ",116  , 43.084843 , -6.463394 , 43.095468 , -6.458416 
- Fuentes de Hocino por Mora de Rubielos,Teruel,1117 m ,98 m ,4 Km ,"2,45 % ",14  ,  ,  ,  ,  
  Fuentes de Peñacorada por N-621,León,1146 m ,199 m ,"3,86 Km ","5,16 % ",30  , 42.826599 , -5.121732 , 42.836010 , -5.088773 
 " Fuentes, Las por Muñana",Ávila,1499 m ,342 m ,"6,2 Km ","5,5 % ",55  , 40.589427 , -5.016167 , 40.619044 , -5.038354 
- Fuerte Rapitán por Jaca,Huesca,1110 m ,285 m ,4 Km ,"7,13 % ",68  ,  ,  ,  ,  
 " Fulgueiro, O por San Miguel de Negradas",Lugo,315 m ,300 m ,"4,1 Km ","7,32 % ",63  , 43.714852 , -7.685838 , 43.702257 , -7.659187 
 " Fulgueiro, O por N-642 - A Pallaza",Lugo,315 m ,265 m ,5 Km ,"5,3 % ",52  , 43.706725 , -7.628589 , 43.702257 , -7.659187 
-" Fumanyá, Coll de por Vallcebre",Barcelona,1566 m ,862 m ,14 Km ,"6,2 % ",217  ,  ,  ,  ,  
-" Fumanyá, Creu de por C-16 Central Térmica Cercs",Barcelona,1678 m ,1026 m ,"13,4 Km ","7,7 % ",244  ,  ,  ,  ,  
 " Fumarea, Alto de La por Candanal",Asturias,583 m ,443 m ,7 Km ,"6,32 % ",103  , 43.460333 , -5.558395 , 43.426682 , -5.578909 
 " Fumarea, Alto de La por El Castro",Asturias,583 m ,308 m ,5 Km ,"6,16 % ",66  , 43.407791 , -5.597448 , 43.460333 , -5.558395 
 " Funturil, Campo de por Artedo",Asturias,482 m ,463 m ,13 Km ,"3,56 % ",85  , 43.552654 , -6.191483 , 43.494713 , -6.193285 
@@ -1441,13 +1306,12 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Gallegos, Puerto de-Monte Agudo por Villafranca del Bierzo",León,1060 m ,555 m ,"15,4 Km ","3,6 % ",98  , 42.607516 , -6.816913 , 42.584695 , -6.886976 
  Gallinero por N-111,La Rioja,1050 m ,183 m ,"2,6 Km ","7,04 % ",38  , 42.177987 , -2.640195 , 42.172389 , -2.617761 
  Gamonedo por Mestas de Con,Asturias,548 m ,395 m ,6 Km ,"6,75 % ",125  , 43.341347 , -5.016975 , 43.317747 , -4.999466 
- Gamoniteiro por Pola de Lena,Asturias,1772 m ,1462 m ,"16,4 Km ","8,91 % ",430  ,  ,  ,  ,  
+ Gamoniteiro por Pola de Lena,Asturias,1772 m ,1462 m ,"16,4 Km ","8,91 % ",430  ,43.157435,-5.829850,43.187841, -5.923591
  Gane por Urduliz,Bizkaia,178 m ,109 m ,"1,1 Km ","9,9 % ",38  , 43.380712 , -2.956894 , 43.387215 , -2.959136 
  Gañidoira por Viveiro,Lugo,710 m ,690 m ,22 Km ,"3,14 % ",96  , 43.623038 , -7.605379 , 43.494442 , -7.684515 
 " Garabitas, Cerro por Casa de Campo",Madrid,663 m ,83 m ,"2,2 Km ","3,77 % ",11  , 40.430305 , -3.737798 , 40.431955 , -3.76035 
  Garai por N-634 y Gerediaga,Bizkaia,385 m ,265 m ,"5,8 Km ","4,57 % ",39  , 43.166249 , -2.603674 , 43.201453 , -2.627578 
  Garaimendi por Igorre,Bizkaia,325 m ,236 m ,"3,9 Km ","6,05 % ",53  , 43.163252 , -2.773522 , 43.18157 , -2.75465 
- Garate por Meaga,Gipuzkoa,245 m ,232 m ,"4,8 Km ","4,82 % ",41  ,  ,  , 43.290418 , -2.202281 
  Garate por Getaria,Gipuzkoa,245 m ,216 m ,"2,9 Km ","7,44 % ",47  , 43.302962 , -2.204732 , 43.290418 , -2.202281 
  Garate(La Palanca) por Llodio,Álava,285 m ,155 m ,"3,9 Km ","3,97 % ",25  , 43.144362 , -2.961634 , 43.167171 , -2.99397 
  Garate(La Palanca) por Okendo,Álava,285 m ,160 m ,"3,9 Km ","4,09 % ",25  , 43.160341 , -3.025897 , 43.167171 , -2.99397 
@@ -1470,20 +1334,14 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Garrués por Maquirriáin,Navarra,612 m ,116 m ,"1,33 Km ","8,72 % ",32  , 42.867136 , -1.645982 , 42.859487 , -1.6573 
  Garteiz por Lauda,Bizkaia,238 m ,232 m ,"4,3 Km ","5,4 % ",65  , 43.401159 , -2.684748 , 43.392085 , -2.656167 
  Gáscones-Buitrago (estación ffcc) por Villavieja del Lozoya,Madrid,1149 m ,149 m ,"3,1 Km ","3,1 % ",25  , 41.007625 , -3.658104 , 41.028656 , -3.675141 
- Gaucín por Río Genal,Málaga,645 m ,556 m ,"7,2 Km ","7,72 % ",140  ,  ,  ,  ,  
-" Gavilanes, Los por Río Cala",Sevilla,396 m ,103 m ,"3,8 Km ","2,7 % ",14  ,  ,  ,  ,  
-" Gaviota, La (Burgoa-Mendi) por Bermeo",Bizkaia,228 m ,218 m ,6 Km ,"3,63 % ",32  ,  ,  ,  ,  
 " Gavitas,Las por Santa Eulalia de Oscos",Asturias,862 m ,366 m ,6 Km ,"6,1 % ",70  , 43.259018 , -7.023096 , 43.247266 , -7.062407 
  Gazaga por Zaldibar,Bizkaia,367 m ,175 m ,"2,2 Km ","7,95 % ",42  , 43.170405 , -2.546983 , 43.160278 , -2.542369 
- Gazeta (caserío) por Elorrio,Bizkaia,337 m ,140 m ,"1,89 Km ","7,36 % ",30  , 43.122537 , -2.532638 ,  ,  
  Gaztelumendi por Larrabetzu,Bizkaia,287 m ,215 m ,"3,95 Km ","5,44 % ",47  , 43.261886 , -2.795205 , 43.285035 , -2.796589 
- Gea de Albarracín por Gea de Albarracín,Teruel,1136 m ,100 m ,"2,79 Km ","3,56 % ",13  ,  ,  ,  ,  
  Geldo por Derio,Bizkaia,241 m ,212 m ,"4,6 Km ","4,61 % ",42  , 43.29352 , -2.880135 , 43.315858 , -2.856789 
  Genbe por Urdanoz,Navarra,920 m ,115 m ,"3,8 Km ","3,02 % ",17  , 42.824948 , -1.883726 , 42.809286 , -1.898832 
  Genbe por Genbe,Navarra,920 m ,333 m ,"5,85 Km ","5,69 % ",54  , 42.782772 , -1.906686 , 42.809286 , -1.898832 
  Genestoso por Sorrodiles de Cibea,Asturias,1146 m ,482 m ,"6,5 Km ","7,41 % ",112  , 43.071317 , -6.453331 , 43.064169 , -6.395867 
  Gerekiz por Muxika,Bizkaia,181 m ,146 m ,"3,7 Km ","3,95 % ",20  , 43.292341 , -2.709289 , 43.299307 , -2.739072 
- Gibalbín por El Cuervo,Cádiz,403 m ,336 m ,"6,38 Km ","5,3 % ",69  ,  ,  ,  ,  
  Gillon por Ventanueva,Asturias,1063 m ,521 m ,11 Km ,"4,73 % ",103  , 43.055217 , -6.616344 , 43.028871 , -6.554546 
  Ginestarre por Ainet de Cardós,Lleida,1357 m ,429 m ,"6,2 Km ","6,92 % ",104  , 42.583241 , 1.236202 , 42.59687 , 1.262888 
  Gobeo por La Herrera,Bizkaia,166 m ,40 m ,"0,8 Km ",5 % ,6  , 43.204026 , -3.144987 , 43.201625 , -3.155522 
@@ -1519,7 +1377,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Groba, A por Baiona",Pontevedra,632 m ,625 m ,"11,4 Km ","5,48 % ",117  , 42.120655 , -8.849502 , 42.070596 , -8.830361 
  Guardamino por por N-629,Cantabria,236 m ,154 m ,"1,89 Km ","8,1 % ",38  , 43.26302 , -3.460414 , 43.260653 , -3.442712 
  Guardamino por por la Tejera (Ramales),Cantabria,236 m ,144 m ,"1,7 Km ","8,47 % ",36  , 43.257132 , -3.464706 , 43.260653 , -3.442712 
- Guayadeque por Agüimes,Las Palmas,955 m ,665 m ,"8,7 Km ","7,64 % ",178  ,  ,  ,  ,  
  Guinea por Cárcamo,Álava,750 m ,125 m ,"2,3 Km ","5,4 % ",19  , 42.859644 , -3.046843 , 42.854045 , -3.018605 
  Guinea por Atiega,Álava,750 m ,175 m ,"5,2 Km ",7 % ,27  , 42.822234 , -3.014681 , 42.854045 , -3.018605 
  Guirguillano por Etxarren de Guirguillano,Navarra,725 m ,191 m ,"3,65 Km ","5,23 % ",32  , 42.723644 , -1.879889 , 42.722822 , -1.891893 
@@ -1555,8 +1412,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Hoja, Collado de La por La Hermida",Cantabria,822 m ,704 m ,8 Km ,"8,8 % ",214  , 43.254481 , -4.614086 , 43.229705 , -4.672709 
 " Hondón, El por Jarafuel",Valencia,701 m ,292 m ,"6,7 Km ","4,36 % ",47  , 39.142277 , -1.046147 , 39.113879 , -1.086788 
 " Hondón, El por Zarra",Valencia,701 m ,201 m ,"3,1 Km ","6,48 % ",40  , 39.096396 , -1.075501 , 39.113879 , -1.086788 
- Honduras por Hervás,Cáceres,1430 m ,765 m ,"14,1 Km ","5,39 % ",121  ,  ,  ,  ,  
- Honduras por Valle del Jerte,Cáceres,1430 m ,873 m ,"16,9 Km ","5,17 % ",170  ,  ,  ,  ,  
 " Hontanar, El por CV-438",Valencia,1030 m ,130 m ,3 Km ,"4,33 % ",20  , 39.024118 , -1.206222 , 39.033586 , -1.227551 
 " Hontanar, El por Los Santos",Valencia,1302 m ,542 m ,"11,6 Km ","4,67 % ",91  , 40.103844 , -1.276474 , 40.110835 , -1.371489 
 " Hontanares, Peñas Llanas por Riaza",Segovia,1471 m ,320 m ,"4,79 Km ","6,6 % ",58  , 41.281041 , -3.47409 , 41.291715 , -3.429673 
@@ -1583,7 +1438,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Hoz, La por La Hermida- Quintanilla",Cantabria,656 m ,538 m ,"10,6 Km ","5,08 % ",99  , 43.254147 , -4.61297 , 43.247119 , 4.539928 
 " Hoz, La-Peñascosa por Santuario Virgen de Cortes",Albacete,1165 m ,255 m ,"7,5 Km ","3,4 % ",40  , 38.696976 , -2.484462 , 38.67175 , -2.410133 
  Huebro por Níjar,Almería,710 m ,440 m ,7 Km ,"6,3 % ",85  , 36.950956 , -2.205745 , 36.987013 , -2.222511 
- Huerces por La camocha,Asturias,400 m ,292 m ,3 Km ,"9,73 % ",106  ,  ,  ,  ,  
  Huerto Alberola por CV-50,Valencia,182 m ,147 m ,"1,8 Km ","8,17 % ",48  , 39.127796 , -0.411215 , 39.122636 , -0.396624 
  Huidobro por Huidobro,Burgos,1088 m ,216 m ,3 Km ,"7,2 % ",47  , 42.7671 , -3.693981 , 42.756403 , -3.702564 
  Humaran por Güeñes,Bizkaia,247 m ,167 m ,4 Km ,"4,18 % ",22  , 43.210298 , -3.095559 , 43.234307 , -3.095634 
@@ -1602,7 +1456,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Ilurdotz por Ilurdotz,Navarra,614 m ,54 m ,"2,47 Km ","5,4 % ",20  , 42.871251 , -1.564654 , 42.874819 , -1.541188 
  Inoso por Amurrio,Álava,473 m ,250 m ,"8,3 Km ","3,01 % ",47  , 43.047565 , -2.991779 , 43.006907 , -2.936633 
  Ipiñaburu por Zeanuri,Bizkaia,380 m ,209 m ,"5,9 Km ","3,53 % ",34  , 43.098688 , -2.749715 , 43.066317 , -2.740531 
- Iram (Radiotelescopio) por Haza Llana,Granada,2845 m ,2080 m ,"35,93 Km ","5,8 % ",546  ,  ,  ,  ,  
  Iriépal por Guadalajara,Guadalajara,970 m ,240 m ,6 Km ,4 % ,22  , 40.644948 , -3.136708 , 40.648225 , -3.083045 
  Iroite por Runs,La Coruña,670 m ,655 m ,"11,3 Km ","5,8 % ",114  , 42.658558 , -8.896573 , 42.722223 ,  -8.920825 
  Iroite por Tállara,La Coruña,670 m ,610 m ,"12,88 Km ","4,73 % ",97  , 42.742609 , -8.876617 , 42.722223 ,  -8.920825 
@@ -1621,7 +1474,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Ixua por San Andrés de Etxebarria,Gipuzkoa,545 m ,440 m ,"8,9 Km ","4,94 % ",84  , 43.254604 , -2.478355 , 43.206894 , -2.477650 
  Ixua-Arrate por Polígono Matxaria(Eibar),Gipuzkoa,607 m ,496 m ,"4,5 Km ",11 % ,210  , 43.191586 , -2.4673 , 43.208292 , -2.452059 
  Izpegi por Erratzu,Navarra,672 m ,373 m ,"8,6 Km ","4,34 % ",54  , 43.180482 , -1.454594 , 43.175733 , -1.402602 
-" Jabato, Puerto por Oeste",Sevilla,659 m ,203 m ,"5,77 Km ","3,5 % ",31  ,  ,  ,  ,  
  Jaizkibel por Hondarribia,Gipuzkoa,455 m ,447 m ,"9,6 Km ","4,66 % ",87  , 43.360997 , -1.790373 , 43.350753 , -1.850535 
  Jaizkibel por Lezo-Pasajes,Gipuzkoa,455 m ,440 m ,"8,2 Km ","5,37 % ",89  , 43.324487 , -1.909782 , 43.350753 , -1.850535 
  Jalance por río Júcar,Valencia,454 m ,102 m ,"2,8 Km ","3,64 % ",22  , 39.203726 , -1.06842 , 39.182772 , -1.078076 
@@ -1632,20 +1484,14 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Jarafuel por río Reconco-Jalance,Valencia,585 m ,245 m ,"8,4 Km ","2,92 % ",34  , 39.196177 , -1.055846 , 39.139913 , -1.073699 
  Jarafuel por río Júcar-Jalance,Valencia,585 m ,233 m ,8 Km ,"2,91 % ",40  , 39.19774 , -1.078763 , 39.139913 , -1.073699 
  Jarafuel por Cofrentes,Valencia,585 m ,237 m ,"9,2 Km ","2,58 % ",35  , 39.204058 , -1.059794 , 39.139913 , -1.073699 
-" Jaramillo, El por Oeste",Córdoba,825 m ,341 m ,"4,45 Km ","7,7 % ",84  ,  ,  ,  ,  
 " Jardines, Collado de los por Río Despeñaperros",Jaén,871 m ,321 m ,"5,8 Km ","5,53 % ",51  , 38.37192 , -3.506062 , 38.390048 , -3.494364 
-" Jarillas, Las por A-432",Sevilla,374 m ,310 m ,"7,61 Km ","4,1 % ",47  ,  ,  ,  ,  
-" Jarillas, Las por Arroyo Tamajal",Sevilla,374 m ,303 m ,"7,9 Km ","3,8 % ",46  ,  ,  ,  ,  
  Jata por Armintza,Bizkaia,286 m ,274 m ,"9,8 Km ","2,8 % ",74  , 43.431902 , -2.897032 , 43.426058 , -2.837391 
  Jata por Bakio,Bizkaia,286 m ,265 m ,"4,69 Km ","5,63 % ",47  , 43.414338 , -2.813272 , 43.426058 , -2.837391 
  Jata por Asteintza-Billabaso,Bizkaia,280 m ,278 m ,"7,6 Km ","3,6 % ",44  , 43.383593 , -2.877281 , 43.426058 , -2.837391 
  Jata (antenas) por Bakio,Bizkaia,4 m ,422 m ,"6,4 Km ","6,6 % ",105  , 43.414338 , -2.813272 , 43.418718 , -2.837128 
  Jata (antenas) por Lemoiz-Armintza,Bizkaia,398 m ,352 m ,"5,6 Km ","6,22 % ",77  , 43.425973 , -2.869792 , 43.418718 , -2.837128 
  Jaulín por Botorrita,Zaragoza,733 m ,378 m ,15 Km ,"2,52 % ",59  , 41.511029 , -1.030447 , 41.380489 , -0.956547 
- Javalambre por La Puebla de Valverde,Teruel,1850 m ,740 m ,"22,2 Km ","3,33 % ",119  ,  ,  ,  ,  
- Javalambre por Villel y Camarena de la Sierra,Teruel,1850 m ,1025 m ,"34,5 Km ","2,97 % ",170  ,  ,  ,  ,  
- Javalambre por Camarena de la Sierra,Teruel,1850 m ,808 m ,"20,5 Km ","3,94 % ",134  ,  ,  ,  ,  
- Javalambre (Pico) por Valacloche,Teruel,2019 m ,1042 m ,"26,8 Km ",4 % ,172  ,  ,  ,  ,  
+ Javalambre por La Puebla de Valverde,Teruel,1850 m ,740 m ,"22,2 Km ","3,33 % ",119  ,40.219303,-0.939551,40.116305,-1.016527
  Jinquer por Tales,Castellón,827 m ,587 m ,"20,2 Km ","2,91 % ",146  , 39.946595 , -0.31002 , 39.938978 , -0.412331 
  Jinquer por Matet,Castellón,827 m ,418 m ,"15,4 Km ","2,71 % ",82  , 39.901276 , -0.51507 , 39.938978 , -0.412331 
 " Jinquer, Coll de por Ayódar",Castellón,827 m ,519 m ,20 Km ,"2,6 % ",129  , 39.997967 , -0.370874 , 39.939587 , -0.411859 
@@ -1656,9 +1502,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Jou, Coll de por Sant Joan de les Abadesses",Gerona,1652 m ,881 m ,"14,42 Km ","6,11 % ",224  , 42.235556  , 2.283268  , 42.272847 , 2.204797 
 " Jou, Coll de por Ribes de Freser-Bruguera",Gerona,1652 m ,752 m ,"11,67 Km ","6,44 % ",164  , 42.302853 , 2.166946 , 42.272847  , 2.204797 
 " Jovani, Urbanización por Alcossebre",Castellón,176 m ,126 m ,1 Km ,"12,6 % ",55  , 40.249365 , 0.260625 , 40.253853 , 0.261569 
-" Joya, La por Este",Málaga,899 m ,300 m ,"10,69 Km ","2,8 % ",94  ,  ,  ,  ,  
-" Joya, La por Arroyo del Espinazo",Málaga,899 m ,680 m ,"18,38 Km ","3,7 % ",191  ,  ,  ,  ,  
-" Joya, La por Norte",Málaga,899 m ,246 m ,"4,5 Km ","5,5 % ",57  ,  ,  ,  ,  
 " Juslapeña-Ezcabarte, Depósito de por Ollacarizqueta",Navarra,610 m ,115 m ,1 Km ,"11,5 % ",45  , 42.88845 , -1.695403 , 42.886272 , -1.704995 
  Kalbario por Sasiola,Gipuzkoa,233 m ,206 m ,"4,09 Km ","5,01 % ",47  , 43.269491 , -2.372923 , 43.294847 , -2.382844 
  Kalbario por Mutriku,Gipuzkoa,233 m ,183 m ,"2,4 Km ","7,63 % ",41  , 43.306878 , -2.387954 , 43.294847 , -2.382844 
@@ -1667,8 +1510,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Karabieta por Elorrio,Gipuzkoa,565 m ,375 m ,"6,9 Km ","5,42 % ",89  , 43.127965 , -2.539751 , 43.148181 , -2.480622 
  Karabieta por Eibar,Gipuzkoa,565 m ,434 m ,"6,7 Km ","6,48 % ",85  , 43.184073 , -2.473619 , 43.148181 , -2.480622 
  Karakate por Soraluze (P. de las Armas),Gipuzkoa,732 m ,632 m ,8 Km ,"7,9 % ",159  , 43.174251 , -2.413535 , 43.192836 , -2.415072 
-" Kilva, Puerto de por Adamuz",Córdoba,468 m ,263 m ,"12,06 Km ","2,2 % ",55  ,  ,  ,  ,  
-" Kilva, Puerto de por Río Varas (Norte)",Córdoba,468 m ,240 m ,"2,94 Km ","8,2 % ",59  ,  ,  ,  ,  
  Kolitza por Balmaseda(fin en BTT),Bizkaia,883 m ,737 m ,"15,39 Km ","4,78 % ",142  , 43.196442 , -3.191893 , 43.200718 , -3.25043 
  Kolitza por Sopuerta por Beci(fin en BTT),Bizkaia,883 m ,771 m ,"15,3 Km ","5,03 % ",164  , 43.248813 , -3.155115 , 43.200718 , -3.25043 
  Kolitza por Arcentales(fin en BTT),Bizkaia,883 m ,683 m ,"13,39 Km ","5,09 % ",134  , 43.24217 , -3.213555 , 43.200718 , -3.25043 
@@ -1676,7 +1517,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Kostolamendi por Larruskain,Bizkaia,430 m ,290 m ,"3,4 Km ","8,52 % ",101  , 43.270573 , -2.443675 , 43.282314 , -2.430285 
  Krutzeta por Aramaio,Álava,702 m ,422 m ,"7,8 Km ","5,41 % ",92  , 43.058173 , -2.540143 , 43.0266 , -2.583818 
  Krutzeta por Legutiano,Álava,702 m ,155 m ,"8,8 Km ","1,75 % ",32  , 42.975869 , -2.643671 , 43.0266 , -2.583818 
- Kung Fu por Central de Guillena,Sevilla,293 m ,210 m ,"4,64 Km ","4,5 % ",30  ,  ,  ,  ,  
  La Acebal por El Entrego,Asturias,443 m ,208 m ,"2,3 Km ","8,9 % ",57  , 43.289663 , -5.638068 , 43.298116 ,  -5.640272 
 " La Bandereta, Coll de por Els Rosildos",Castellón,785 m ,309 m ,"4,6 Km ","6,7 % ",69  , 40.298512 , -0.047293 , 40.275793 , -0.032787 
 " La Bandereta, Coll de por Benlloch",Castellón,785 m ,476 m ,"13,2 Km ","3,6 % ",76  , 40.210048 , 0.026007 , 40.275793 , -0.032787 
@@ -1694,12 +1534,10 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  La Cruz por Carbayín,Asturias,540 m ,273 m ,"5,7 Km ","4,7 % ",48  , 43.351857 , -5.635643 , 43.351865 , -5.592191 
  La Drova (Collado dels Mollons) por Gandía,Valencia,385 m ,354 m ,"8,8 Km ","4,02 % ",67  , 38.972022 , -0.201015 , 39.001577 , -0.275946 
  La Fraguela por Robledillo de la Jara,Madrid,1153 m ,286 m ,"9,8 Km ","2,5 % ",39  , 40.947381 , -3.560443 , 40.951845 , -3.509581 
- La Gallina por por Cacín,Granada,977 m ,324 m ,"5,5 Km ","5,9 % ",62  ,  ,  ,  ,  
  La Hiruela por Montejo de la Sierra,Madrid,1482 m ,301 m ,"5,7 Km ","5,28 % ",57  , 41.063433 , -3.522019 , 41.069461 , -3.474863 
  La Hiruela por río Jarama-La Hiruela,Madrid,1482 m ,352 m ,"6,7 Km ","5,52 % ",63  , 41.084203 , -3.429537 , 41.069461 , -3.474863 
  La Jarosa por SW,Madrid,1409 m ,463 m ,"11,9 Km ",4 % ,129  , 40.673147 , -4.104457 , 40.674236 , -4.162238 
  La Marta por Pontenova,Asturias,1114 m ,760 m ,"14,5 Km ","5,24 % ",181  , 43.275206 , -6.730843 , 43.295449 , -6.671019 
- La meá del perro por Este,Sevilla,514 m ,167 m ,"4,44 Km ","3,4 % ",21  ,  ,  ,  ,  
  La Muela (Canteras Jérica) por Jérica,Castellón,630 m ,180 m ,"3,1 Km ","5,8 % ",68  , 39.90707 , -0.57189 , 39.897489 , -0.579057 
  La Pajarilla por Barbalimpia,Cuenca,1108 m ,155 m ,3 Km ,"5,17 % ",27  , 39.98517 , -2.33167 , 39.98618 , -2.36103 
  La Pedrissa (Bco. de Bono) por Sellent,Valencia,242 m ,167 m ,"2,2 Km ","7,59 % ",41  , 39.030419 , -0.588241 , 39.026252 , -0.609741 
@@ -1721,7 +1559,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  La Torreta (La Magdalena) por Bordón,Castellón,1119 m ,344 m ,9 Km ,"3,81 % ",50  , 40.694533 , -0.32002 , 40.641963 , -0.328217 
  La Trampa por Torrelaguna,Madrid,1000 m ,292 m ,"5,7 Km ",5 % ,72  , 40.820672 , -3.560951 , 40.845804 , -3.599489 
 " Ladiairo, Alto do (Carretera Castromil) por Hermisende",Zamora,1005 m ,208 m ,"3,15 Km ","6,6 % ",56  , 41.966392 , -6.903241 , 41.967286 , -6.924784 
-" Lagarito, El por Río Huesna",Sevilla,623 m ,212 m ,"7,3 Km ","2,9 % ",32  ,  ,  ,  ,  
  Lagos de Covadonga por AS-114,Asturias,1135 m ,962 m ,14 Km ,"6,87 % ",271  , 43.307505 ,  -5.051651 , 43.272019 , -4.983759 
 " Lagos, Los por Alginet",Valencia,195 m ,145 m ,"4,9 Km ","2,96 % ",22  , 39.263294 , -0.480266 , 39.280902 , -0.502281 
 " Lagos, Los por Benifaió",Valencia,195 m ,165 m ,"6,1 Km ","2,7 % ",25  , 39.28831 , -0.453658 , 39.280902 , -0.502281 
@@ -1737,7 +1574,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Lancha, La por Valle del Voltoya",Ávila,1485 m ,229 m ,8 Km ,"2,85 % ",32  , 40.675615 , -4.42361 , 40.63331 , -4.419773 
  Landa Ederra por Durango,Bizkaia,406 m ,300 m ,"4,35 Km ","6,9 % ",78  , 43.174594 , -2.652869 , 43.164094 , -2.676655 
  Landaluze por Mañaria,Bizkaia,414 m ,230 m ,2 Km ,"11,5 % ",104  , 43.139076 , -2.658125 , 43.143154 , -2.675178 
- Landeta por Okendo,Álava,499 m ,293 m ,2 Km ,"14,65 % ",156  , 43.171641 , -2.998409 ,  ,  
  Lanzas Agudas por Kontxa,Bizkaia,407 m ,243 m ,"6,25 Km ","3,89 % ",55  , 43.224786 , -3.360271 , 43.180803 , -3.361151 
  Lapetaratxe por Llanteno,Álava,250 m ,56 m ,"1,1 Km ","5,32 % ",6  , 43.107336 , -3.094491 , 43.116867 , -3.101867 
  Lapetaratxe por Artziniega,Álava,250 m ,80 m ,"1,5 Km ","5,32 % ",15  , 43.123685 , -3.120874 , 43.116867 , -3.101867 
@@ -1754,22 +1590,18 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Las Torcas por Los Palancares,Cuenca,1223 m ,263 m ,"7,11 Km ","3,69 % ",42  , 40.02340 , -2.03665 , 40.02488 , -1.97041 
  Lasierra por La Puebla de Arganzón,Álava,640 m ,170 m ,"5,3 Km ","3,2 % ",23  , 42.772444 , -2.836643 , 42.796067 , -2.875353 
  Lasierra por Anúcita,Álava,640 m ,130 m ,3 Km ,"4,3 % ",19  , 42.803244 , -2.905971 , 42.796067 , -2.875353 
- Lastras del Pino por Río Cabrilla,Córdoba,564 m ,146 m ,"3,29 Km ","4,4 % ",24  ,  ,  ,  ,  
- Latas por Javierre,Huesca,942 m ,91 m ,"1,6 Km ","5,69 % ",14  ,  ,  ,  ,  
- Latas por Sabiñánigo,Huesca,942 m ,135 m ,"2,5 Km ","5,4 % ",21  ,  ,  ,  ,  
  Lauro por Mungia,Bizkaia,184 m ,138 m ,"6,1 Km ","2,26 % ",23  , 43.357099 , -2.850888 , 43.335058 , -2.901421 
  Lauro por Larrakoetxe,Bizkaia,184 m ,149 m ,"3,6 Km ","4,14 % ",20  , 43.312033 , -2.922492 , 43.335058 , -2.901421 
 " Lavadoira, Campa de por Allande",Asturias,805 m ,280 m ,"4,7 Km ","5,95 % ",47  , 43.271644 , -6.612139 , 43.292701 , -6.602354  
 " Lavadoira, Campa de por Puente Riocastiello",Asturias,805 m ,423 m ,15 Km ,"2,82 % ",75  , 43.336166 , -6.542788 , 43.292701 , -6.602354 
- Lavansa (Estación Esquí) por Tuixén,Lleida,1930 m ,803 m ,"13,2 Km ","6,1 % ",162  ,  ,  ,  ,  
- Lavansa (Estación Esquí) por Saint Llorenç de Morunys,Lleida,1930 m ,1113 m ,"22,4 Km ",5 % ,225  ,  ,  ,  ,  
+ Lavansa (Estación Esquí) por Tuixén,Lleida,1930 m ,803 m ,"13,2 Km ","6,1 % ",162  ,42.230325,1.567993,42.214482,1.527405
+ Lavansa (Estación Esquí) por Saint Llorenç de Morunys,Lleida,1930 m ,1113 m ,"22,4 Km ",5 % ,225  ,42.137506,1.590733,42.214482,1.527405
 " L'Avellà, Balneario de por Catí",Castellón,920 m ,265 m ,5 Km ,"5,3 % ",45  , 40.476072 , 0.023818 , 40.501204 , 0.001502 
 " Laza, Portillo de por Otxagabia",Navarra,1129 m ,225 m ,"3,5 Km ","6,42 % ",42  , 42.92888 , -1.004999 , 42.920446 , -0.989526 
 " Laza, Portillo de por Isaba",Navarra,1129 m ,222 m ,4 Km ,"5,55 % ",41  , 42.909344 , -0.966822 , 42.920446 , -0.989526 
  Leaburu por Tolosa,Gipuzkoa,297 m ,217 m ,"2,6 Km ","8,34 % ",65  , 43.134942 , -2.072551 , 43.125648 , -2.052495 
  Leagi por Oleta,Bizkaia,188 m ,160 m ,"1,1 Km ","14,55 % ",88  , 43.34496 , -2.501471 , 43.348565 , -2.494894 
  Ledo por Galdames,Bizkaia,488 m ,369 m ,"3,2 Km ","11,53 % ",178  , 43.261144 , -3.104002 , 43.261718 , -3.089905 
- Legionario por por Jayena,Granada,1425 m ,438 m ,"10,5 Km ","4,17 % ",64  ,  ,  ,  ,  
 " Leitariegos, Puerto de por Bimeda",Asturias,1525 m ,1030 m ,23 Km ,"4,47 % ",148  , 43.092835 , -6.531286 , 42.996863 , -6.415329 
  Leitza por Tolosa,Navarra,466 m ,46 m ,"3,79 Km ","1,21 % ",10  , 43.098266 , -1.953728 , 43.090776 , -1.926477 
 " Lejana, La por Putxeta, Las Calizas y Triano",Bizkaia,478 m ,472 m ,"10,1 Km ","4,67 % ",129  , 43.318098 , -3.094121 , 43.280252 , -3.057579 
@@ -1777,11 +1609,8 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Lekamaña por Amurrio(Pol. Industrial),Álava,479 m ,229 m ,"2,15 Km ","10,65 % ",81  , 43.034672 , -2.99676 , 43.024565 , -2.991232 
  Lekoitz-Gane por Markina,Bizkaia,353 m ,262 m ,"3,4 Km ","7,7 % ",63  , 43.265245 , -2.50676 , 43.276174 , -2.542477 
  Lekoitz-Gane por Aulesti,Bizkaia,353 m ,255 m ,"4,4 Km ","5,8 % ",46  , 43.296183 , -2.563484 , 43.276174 , -2.542477 
-" León, El por Olías",Málaga,940 m ,921 m ,"20,4 Km ","4,51 % ",182  ,  ,  ,  ,  
-" León, El por Málaga",Málaga,940 m ,905 m ,"16,3 Km ","5,55 % ",153  ,  ,  ,  ,  
 " León, El - Guadarrama por San Rafael",Segovia,1511 m ,261 m ,"4,71 Km ","5,54 % ",32  , 40.710833 , -4.176607 , 40.709272 , -4.141159 
 " León, El - Guadarrama por Guadarrama",Madrid,1511 m ,530 m ,"8,3 Km ","6,39 % ",105  , 40.676993 , -4.099445 , 40.709727 , -4.140644 
-" León, Puerto del por Santopitar",Málaga,934 m ,793 m ,"26,19 Km ",3 % ,213  ,  ,  ,  ,  
  Les Foies por Ribesalbes,Castellón,317 m ,127 m ,"3,6 Km ","3,53 % ",18  , 40.036125 , -0.255046 , 40.059976 , -0.237622 
  Les Planisses (Benicadell) por Beniatjar,Valencia,845 m ,638 m ,"9,7 Km ","6,58 % ",152  , 38.878973 , -0.426021 , 38.839774 , -0.403061 
 " Les Useres, Alt de por Rambla de la Viuda",Castellón,473 m ,195 m ,7 Km ,"2,79 % ",32  , 40.155163 , -0.145011 , 40.143059 , -0.177112 
@@ -1791,8 +1620,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Liédena, Alto de por Yesa",Navarra,549 m ,85 m ,"2,2 Km ","3,85 % ",12  , 42.622412 , -1.21876 , 42.624622 , -1.247857 
 " Liédena, Alto de por Liédena",Navarra,549 m ,139 m ,3 Km ,"4,63 % ",25  , 42.61383 , -1.278074 , 42.624622 , -1.247857 
  Limianos de Sanabria por Carretera El Puente-Sotillo,Zamora,1051 m ,69 m ,"0,81 Km ","8,52 % ",18  , 42.088305 , -6.70516 , 42.09434 , -6.706243 
- Linares por Mosqueruela,Teruel,1705 m ,205 m ,"4,8 Km ","4,26 % ",31  ,  ,  ,  ,  
- Linares por Rubielos de Mora,Teruel,1705 m ,765 m ,"29,79 Km ","2,56 % ",200  ,  ,  ,  ,  
 " Linares, Puerto de por por Linares de la Sierra",Huelva,703 m ,197 m ,"2,7 Km ","7,4 % ",52  , 37.880012 , -6.621194 , 37.880825 , -6.646471 
  Lindes por Santa Marina,Asturias,925 m ,445 m ,11 Km ,"4,04 % ",87  , 43.148781 , -5.960426 , 43.085188 , -5.903091 
  Lizarmeaka (Otsondo) por Indarte Erreka,Navarra,580 m ,357 m ,"4,19 Km ","8,5 % ",100  , 43.230393 , -1.54084 , 43.228829 , -1.504705 
@@ -1813,12 +1640,7 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Llagària (Castell de Benifato) por Beniardà-Benifato,Alicante,998 m ,610 m ,"9,1 Km ","6,7 % ",123  , 38.688156 , -0.216894 , 38.671171 , -0.256805 
  Llamas del Mouro por Tuña,Asturias,741 m ,487 m ,"7,4 Km ","6,58 % ",143  , 43.275331 , -6.371899 , 43.243952 , -6.43095 
 " Llanada, La por Puente (Pesoz)",Asturias,842 m ,670 m ,15 Km ,"4,46 % ",118  , 43.241952 , -6.892548 , 43.282079 , -6.972027 
- Llano de las Palomas por Playa de San Marcos,SC Tenerife,923 m ,919 m ,"9,1 Km ","10,1 % ",350  ,  ,  ,  ,  
- Llanos de Contra por por Beznar,Granada,933 m ,337 m ,"6,7 Km ",5 % ,52  ,  ,  ,  ,  
  Llanos de Someron por Puente de los fierros,Asturias,863 m ,361 m ,"4,37 Km ","8,26 % ",97  , 43.069217 , -5.771427 , 43.041967 , -5.789065 
-" Llanos, Puerto de los por Arroyo de las Casetillas",Huelva,593 m ,294 m ,"4,1 Km ","7,17 % ",63  ,  ,  ,  ,  
-" Llanos, Puerto de los por Ribera de Huelva",Huelva,654 m ,344 m ,"7,28 Km ","4,72 % ",53  ,  ,  ,  ,  
-" Llauset, Presa de por Bono",Huesca,2193 m ,1147 m ,"17,2 Km ","6,67 % ",239  ,  ,  ,  ,  
 " Llíber, Alto de por Gata de Gorgos",Alicante,229 m ,84 m ,2 Km ,"4,2 % ",14  , 38.7583 , 0.036778 , 38.744411 , 0.018668 
 " Llidona, La por Rambla de la Viuda",Castellón,236 m ,141 m ,"5,3 Km ","2,66 % ",20  , 40.011938 , -0.158358 , 40.021798 , -0.212603 
  Lloma del Notari (El Algar) por Fonts de l'Algar,Alicante,257 m ,155 m ,"1,4 Km ","11,07 % ",91  , 38.658638 , -0.097632 , 38.654583 , -0.086646 
@@ -1832,19 +1654,16 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Llosa de Camacho, Alto de por Pedreguer",Alicante,307 m ,245 m ,"6,5 Km ","3,8 % ",32  , 38.794868 , 0.031199 , 38.768406 , -0.020556 
  Llosa de Ranes por Pto. Cárcer,Valencia,218 m ,178 m ,"4,9 Km ","3,63 % ",25  , 39.065381 , -0.541763 , 39.029786 , -0.544724 
  Llosa de Ranes por Llosa de Ranes,Valencia,218 m ,118 m ,2 Km ,"5,9 % ",16  , 39.016249 , -0.536056 , 39.029786 , -0.544724 
- Llueves por Cangas de Onís,Asturias,207 m ,139 m ,"2,62 Km ","5,3 % ",25  ,  ,  ,  ,  
 " Lobo, Collado del (Los Charcos) por Quesa",Valencia,604 m ,369 m ,"6,5 Km ","5,68 % ",81  , 39.105221 , -0.763764 , 39.073045 , -0.802689 
  Loiti por Monreal,Navarra,724 m ,108 m ,"4,1 Km ","2,63 % ",16  , 42.670861 , -1.443161 , 42.656539 , -1.400206 
  Loiti por Liédena,Navarra,724 m ,224 m ,"5,4 Km ","4,15 % ",34  , 42.639599 , -1.340121 , 42.656539 , -1.400206 
- Lokate por Orio,Gipuzkoa,245 m ,235 m ,"4,4 Km ","5,34 % ",66  , 43.274354 , -2.128623 ,  ,  
  Loma Carboneras por Valdecabrillas,Cuenca,1179 m ,231 m ,"10,2 Km ","2,26 % ",43  , 40.12047 , -2.40102 , 40.07746 , -2.32796 
  Loma de la Albarda por CM-3216,Albacete,1336 m ,406 m ,"8,1 Km ","5,01 % ",73  , 38.62219 , -2.278917 , 38.654124 , -2.326491 
  Loma de la Cruz por Ademuz,Valencia,960 m ,240 m ,"2,6 Km ","9,23 % ",73  , 40.059253 , -1.283126 , 40.049891 , -1.29467 
  Loma de la Fábrica por Altura,Castellón,550 m ,230 m ,"5,1 Km ","4,5 % ",40  , 39.84624 , -0.483098 , 39.850359 , -0.539489 
- Loma de las Cuadrillas por Río de la Miel,Málaga,724 m ,677 m ,"11,1 Km ","6,1 % ",163  ,  ,  ,  ,  
  Loma de Sepúlveda por río Caslilla - Sepúlveda,Segovia,1036 m ,114 m ,"2,6 Km ","4,38 % ",17  , 41.295913 , -3.756788 , 41.296115 , -3.738881 
  Loma de Sepúlveda por corral de Duratón,Segovia,1036 m ,107 m ,"3,5 Km ","3,06 % ",14  , 41.290045 , -3.706512 , 41.296115 , -3.738881 
- Loma del Zorro por S. Vicente-Cº Cortes,Castellón,1103 m ,303 m ,"7,2 Km ","4,21 % ",58  , 40.148996 , -0.511422 ,  ,  
+ Loma del Zorro por S. Vicente-Cº Cortes,Castellón,1103 m ,303 m ,"7,2 Km ","4,21 % ",58  , 40.148996 , -0.511422 , 40.187267 , -0.530562 
  Loma del Zorro por S. Vicente de Piedrahíta,Castellón,1103 m ,323 m ,"9,5 Km ","3,4 % ",47  , 40.131083 , -0.501766 , 40.187267 , -0.530562 
  Loma del Zorro por Cortes de Arenoso,Castellón,1103 m ,353 m ,9 Km ,"3,92 % ",59  , 40.159132 , -0.569916 , 40.187267 , -0.530562 
  Loma Estrecha por Camino de Ayora,Valencia,518 m ,218 m ,6 Km ,"3,63 % ",33  , 39.076376 , -0.716944 , 39.083372 , -0.771103 
@@ -1855,15 +1674,11 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Lombillo, Alto del por Molinaseca",León,783 m ,218 m ,"2,85 Km ","7,6 % ",42  , 42.541698 , -6.527596 , 42.521079 , -6.537380 
 " Lombillo, Alto del por Ponferrada",León,783 m ,242 m ,"2,91 Km ","8,3 % ",69  ," 42,525950 "," -6,558666 "," 42,521080 "," -6,537380 "
  L'Ombria por Benigembla,Alicante,539 m ,223 m ,"3,5 Km ","6,37 % ",60  , 38.751774 , -0.106044 , 38.742235 , -0.118275 
- Lomo Gordo (El Hierro) por Las Puntas-Frontera,SC Tenerife,1336 m ,1326 m ,"22,4 Km ","5,92 % ",245  ,  ,  ,  ,  
  Lomos de Orios por Villoslada de Cameros,La Rioja,1403 m ,373 m ,"8,5 Km ","4,39 % ",70  , 42.109685 , -2.674055 , 42.047301 , -2.67854 
 " Lora, La por Rocamundo",Cantabria,1069 m ,366 m ,"5,3 Km ","6,9 % ",106  , 42.80449 , -3.930058 , 42.771 , -3.942289 
-" Loros, Alto de los por Arafo",SC Tenerife,1683 m ,1258 m ,"18,1 Km ","6,95 % ",263  ,  ,  ,  ,  
- Los Alazores por por Loja,Granada,1100 m ,511 m ,"21,4 Km ","2,4 % ",73  ,  ,  ,  ,  
- Los Cerricos (Berbelangel) por Jalance (río Júcar),Valencia,831 m ,467 m ,21 Km ,"2,22 % ",88  , 39.19182 , -1.083741 ,  ,  
+ Los Cerricos (Berbelangel) por Jalance (río Júcar),Valencia,831 m ,467 m ,21 Km ,"2,22 % ",88  , 39.19182 , -1.083741 , 39.120705 , -1.220984 
  Los Cerricos (Berbelangel) por Cofrentes,Valencia,831 m ,488 m ,"19,2 Km ","2,54 % ",78  , 39.204192 , -1.059752 , 39.120705 , -1.220984 
  Los Cerricos (Berbelangel) por Jarafuel,Valencia,831 m ,427 m ,18 Km ,"2,37 % ",68  , 39.14251 , -1.046104 , 39.120705 , -1.220984 
- Los Tres Juanes por por Las Canteras,Granada,943 m ,181 m ,2 Km ,"9,2 % ",59  ,  ,  ,  ,  
  Louxas por Navia de Suarna,Lugo,894 m ,596 m ,"11,2 Km ","4,96 % ",124  , 42.965006 , -7.004349 , 43.022198 , -7.041471 
  Louxas por Lamas de Moreira,Lugo,0 m ,519 m ,"9,6 Km ","5,41 % ",98  , 43.058999 , -7.074952 , 43.022198 , -7.041471 
  Luezas por Terroba,La Rioja,1135 m ,367 m ,"7,6 Km ","4,83 % ",75  , 42.26305 , -2.434223 , 42.288548 , -2.474585 
@@ -3557,7 +3372,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
  Villar de Sobrepeña por Hoces del Duratón,Segovia,1047 m ,156 m ,"4,5 Km ","3,47 % ",23  , 41.285159 , -3.838949 , 41.280903 , -3.810282 
  Villar de Sobrepeña (Canteras) por Sepúlveda,Segovia,1070 m ,146 m ,"3,1 Km ","4,71 % ",20  , 41.293963 , -3.758698 , 41.290061 , -3.779168 
  Villar de Vildas por Aguasmestas,Asturias,845 m ,444 m ,12 Km ,"3,7 % ",92  , 43.178644 , -6.299973 , 43.098476 , -6.336708 
-" Villares, Los por 14%",Córdoba,622 m ,480 m ,"9,08 Km ","5,3 % ",94  ,  ,  ,  ,  
 " Villargordo, Alto de por Presa Contreras-N-III",Valencia,849 m ,169 m ,"5,5 Km ","3,07 % ",23  , 39.543367 , -1.502895 , 39.528672 , -1.449594 
  Villarigan por El Renal,Asturias,407 m ,377 m ,"5,28 Km ","7,14 % ",79  , 43.487801 , -6.137066 , 43.497888 , -6.170111 
  Villarrubin por Puente del Corral,León,909 m ,169 m ,"2,1 Km ",8 % ,43  , 42.562270 , -7.013955 , 42.571073 , -7.022367 
@@ -3572,10 +3386,6 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Viñaza, La por Barracas",Castellón,923 m ,91 m ,"1,8 Km ","5,1 % ",14  , 40.083883 , -0.607982 , 40.086904 , -0.594335 
 " Viñaza, La por Montanejos",Castellón,923 m ,323 m ,7 Km ,"4,6 % ",47  , 40.094751 , -0.568414 , 40.086904 , -0.594335 
  Viñuelas por Castilblanques,Valencia,701 m ,86 m ,"2,5 Km ","3,44 % ",14  , 39.324604 , -1.018424 , 39.322679 , -1.001945 
- Vioña por por Ajo (Bº El Carre),Cantabria,166 m ,120 m ,"3,9 Km ","3,07 % ",34  ,  ,  ,  ,  
- Vioña por por Galizano,Cantabria,170 m ,155 m ,"2,41 Km ","6,46 % ",38  ,  ,  ,  ,  
- Vioña por por Ajo,Cantabria,166 m ,156 m ,3 Km ,"5,19 % ",34  ,  ,  ,  ,  
-" Virgen de Gracia, Santuario por Archidona",Málaga,925 m ,170 m ,"1,46 Km ","11,6 % ",67  ,  ,  ,  ,  
 " Virgen de la Sierra, Ermita de por Cabra",Córdoba,1208 m ,764 m ,"14,08 Km ","5,4 % ",136  , 37.45684 , -4.447431 , 37.486933 , -4.380146 
  Virgen de las Angustias por Recreo Peral,Cuenca,957 m ,52 m ,"0,37 Km ","14,1 % ",28  , 40.07871 , -2.13204 , 40.08055 , -2.13008 
  Virgen del Valle por Río Cabrera,León,1035 m ,485 m ,"5,6 Km ","8,66 % ",132  , 42.402196 , -6.641353 , 42.396628 , -6.622918 
@@ -3613,16 +3423,10 @@ name,provincia,alt,desnivel,dist,pendiente,coef,la_ini,lo_ini,la_fin,lo_fin
 " Yelmo, El por Cortijos Nuevos",Jaén,1955 m ,998 m ,"14,26 Km ",7 % ,224  , 38.251706 , -2.715948 , 38.254091 , -2.657148 
  Yernes por Coalla,Asturias,690 m ,600 m ,12 Km ,5 % ,142  , 43.343033 , -6.051836 , 43.27958  , -6.109343  
  Yernes por Alcubiella,Asturias,695 m ,616 m ,16 Km ,"3,85 % ",128  , 43.361943 , -6.07029 , 43.27958 , -6.109343 
- Zabalgabi por BI-636,Bizkaia,125 m ,114 m ,"1,2 Km ","9,5 % ",35  ,  ,  ,  ,  
- Zabalgabi por Castresana,Bizkaia,125 m ,114 m ,"0,89 Km ","12,67 % ",50  ,  ,  ,  ,  
  Zaldiaran por Vitoria,Álava,806 m ,281 m ,"7,69 Km ","3,65 % ",40  , 42.833276 , -2.687482 , 42.790868 , -2.728171 
  Zaldiarán por Treviño,Burgos,800 m ,285 m ,"8,2 Km ","3,5 % ",41  , 42.732807 , -2.751267 , 42.790949 , -2.72839 
  Zaldiaran(antenas) por Vitoria,Álava,965 m ,440 m ,9 Km ,"4,88 % ",106  , 42.833276 , -2.687482 , 42.794113 , -2.736288 
  Zaldu por Sodupe,Bizkaia,131 m ,63 m ,"1,39 Km ","4,5 % ",9  , 43.193155 , -3.0467 , 43.184542 , -3.043336 
-" Zamorano, Puerto del por Pruna (Oeste)",Sevilla,778 m ,382 m ,"10,75 Km ","3,6 % ",58  ,  ,  ,  ,  
-" Zamorano, Puerto del por Río Guadamanil",Sevilla,778 m ,443 m ,"13,58 Km ","3,3 % ",85  ,  ,  ,  ,  
-" Zamorano, Puerto del por Algámitas (Este)",Sevilla,778 m ,403 m ,"8,05 Km ",5 % ,72  ,  ,  ,  ,  
-" Zancudos, Los por Río Cala",Sevilla,462 m ,173 m ,"4,6 Km ","3,8 % ",23  ,  ,  ,  ,  
  Zaratamo por Arkotxa,Bizkaia,173 m ,130 m ,"3,79 Km ","3,42 % ",22  , 43.230516 , -2.866691 , 43.211526 , -2.873644 
  Zaratamo (Caserío) por Arrigorriaga,Bizkaia,233 m ,180 m ,"2,4 Km ","7,5 % ",44  , 43.208341 , -2.884112 , 43.214294 , -2.870071 
  Zarate por Murgia,Álava,732 m ,79 m ,"1,8 Km ","4,39 % ",12  , 42.956766 , -2.802978 , 42.962229 , -2.783993 
